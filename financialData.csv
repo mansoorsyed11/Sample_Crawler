@@ -1,0 +1,4014 @@
+,symbol,metric,value
+0,MMM,Previous Close,141.75
+1,MMM,Open,140.91
+2,MMM,Bid,0.00 x 900
+3,MMM,Ask,0.00 x 1200
+4,MMM,Day's Range,139.71 - 141.59
+5,MMM,52 Week Range,125.60 - 197.29
+6,MMM,Volume,"15,393,894"
+7,MMM,Avg. Volume,"3,897,362"
+8,AOS,Previous Close,62.63
+9,AOS,Open,61.75
+10,AOS,Bid,0.00 x 800
+11,AOS,Ask,67.64 x 800
+12,AOS,Day's Range,61.12 - 62.06
+13,AOS,52 Week Range,51.91 - 86.74
+14,AOS,Volume,"515,931"
+15,AOS,Avg. Volume,"942,245"
+16,ABT,Previous Close,106.01
+17,ABT,Open,105.90
+18,ABT,Bid,105.07 x 1000
+19,ABT,Ask,106.00 x 800
+20,ABT,Day's Range,105.12 - 106.17
+21,ABT,52 Week Range,101.24 - 142.60
+22,ABT,Volume,"4,177,263"
+23,ABT,Avg. Volume,"4,628,495"
+24,ABBV,Previous Close,139.02
+25,ABBV,Open,139.05
+26,ABBV,Bid,0.00 x 1400
+27,ABBV,Ask,143.00 x 900
+28,ABBV,Day's Range,137.70 - 139.46
+29,ABBV,52 Week Range,105.56 - 175.91
+30,ABBV,Volume,"4,723,369"
+31,ABBV,Avg. Volume,"5,867,746"
+32,ABMD,Previous Close,292.24
+33,ABMD,Open,287.69
+34,ABMD,Bid,0.00 x 900
+35,ABMD,Ask,0.00 x 1000
+36,ABMD,Day's Range,284.85 - 293.00
+37,ABMD,52 Week Range,219.85 - 379.30
+38,ABMD,Volume,"237,339"
+39,ABMD,Avg. Volume,"304,977"
+40,ACN,Previous Close,306.70
+41,ACN,Open,306.68
+42,ACN,Bid,277.02 x 1100
+43,ACN,Ask,340.00 x 900
+44,ACN,Day's Range,303.86 - 307.98
+45,ACN,52 Week Range,261.77 - 417.37
+46,ACN,Volume,"1,649,395"
+47,ACN,Avg. Volume,"2,077,025"
+48,ATVI,Previous Close,79.34
+49,ATVI,Open,79.36
+50,ATVI,Bid,79.28 x 1000
+51,ATVI,Ask,79.98 x 800
+52,ATVI,Day's Range,79.14 - 79.73
+53,ATVI,52 Week Range,56.40 - 86.90
+54,ATVI,Volume,"3,436,028"
+55,ATVI,Avg. Volume,"4,653,133"
+56,ADM,Previous Close,88.05
+57,ADM,Open,87.88
+58,ADM,Bid,0.00 x 800
+59,ADM,Ask,0.00 x 800
+60,ADM,Day's Range,86.65 - 89.18
+61,ADM,52 Week Range,58.44 - 98.88
+62,ADM,Volume,"2,057,409"
+63,ADM,Avg. Volume,"3,056,432"
+64,ADBE,Previous Close,410.41
+65,ADBE,Open,410.68
+66,ADBE,Bid,0.00 x 800
+67,ADBE,Ask,0.00 x 900
+68,ADBE,Day's Range,405.34 - 413.24
+69,ADBE,52 Week Range,338.00 - 699.54
+70,ADBE,Volume,"1,883,945"
+71,ADBE,Avg. Volume,"2,740,066"
+72,ADP,Previous Close,255.77
+73,ADP,Open,256.19
+74,ADP,Bid,0.00 x 900
+75,ADP,Ask,0.00 x 1100
+76,ADP,Day's Range,255.25 - 257.34
+77,ADP,52 Week Range,192.26 - 261.59
+78,ADP,Volume,"864,287"
+79,ADP,Avg. Volume,"1,512,119"
+80,AAP,Previous Close,199.05
+81,AAP,Open,182.79
+82,AAP,Bid,179.84 x 900
+83,AAP,Ask,0.00 x 1200
+84,AAP,Day's Range,176.75 - 185.00
+85,AAP,52 Week Range,164.00 - 244.55
+86,AAP,Volume,"3,605,620"
+87,AAP,Avg. Volume,"750,075"
+88,AES,Previous Close,24.81
+89,AES,Open,24.81
+90,AES,Bid,22.00 x 1000
+91,AES,Ask,0.00 x 1100
+92,AES,Day's Range,24.72 - 25.57
+93,AES,52 Week Range,18.62 - 26.52
+94,AES,Volume,"3,928,620"
+95,AES,Avg. Volume,"5,271,845"
+96,AFL,Previous Close,61.59
+97,AFL,Open,61.59
+98,AFL,Bid,0.00 x 900
+99,AFL,Ask,62.43 x 900
+100,AFL,Day's Range,61.20 - 61.78
+101,AFL,52 Week Range,51.28 - 67.20
+102,AFL,Volume,"1,653,842"
+103,AFL,Avg. Volume,"2,464,098"
+104,A,Previous Close,132.64
+105,A,Open,133.02
+106,A,Bid,0.00 x 1100
+107,A,Ask,135.80 x 800
+108,A,Day's Range,132.65 - 134.54
+109,A,52 Week Range,112.52 - 179.57
+110,A,Volume,"895,270"
+111,A,Avg. Volume,"1,540,274"
+112,APD,Previous Close,261.32
+113,APD,Open,261.79
+114,APD,Bid,0.00 x 1100
+115,APD,Ask,0.00 x 900
+116,APD,Day's Range,260.83 - 263.84
+117,APD,52 Week Range,216.24 - 316.39
+118,APD,Volume,"557,694"
+119,APD,Avg. Volume,"1,101,887"
+120,AKAM,Previous Close,93.36
+121,AKAM,Open,93.11
+122,AKAM,Bid,90.48 x 800
+123,AKAM,Ask,0.00 x 800
+124,AKAM,Day's Range,92.63 - 94.14
+125,AKAM,52 Week Range,85.90 - 123.25
+126,AKAM,Volume,"935,261"
+127,AKAM,Avg. Volume,"1,562,564"
+128,ALK,Previous Close,44.50
+129,ALK,Open,44.66
+130,ALK,Bid,0.00 x 800
+131,ALK,Ask,50.00 x 800
+132,ALK,Day's Range,44.50 - 45.51
+133,ALK,52 Week Range,38.19 - 63.76
+134,ALK,Volume,"943,591"
+135,ALK,Avg. Volume,"1,610,664"
+136,ALB,Previous Close,281.03
+137,ALB,Open,282.00
+138,ALB,Bid,289.00 x 1100
+139,ALB,Ask,291.48 x 800
+140,ALB,Day's Range,280.01 - 288.60
+141,ALB,52 Week Range,169.93 - 291.48
+142,ALB,Volume,"771,192"
+143,ALB,Avg. Volume,"1,345,720"
+144,ARE,Previous Close,157.68
+145,ARE,Open,158.18
+146,ARE,Bid,155.55 x 1000
+147,ARE,Ask,160.25 x 900
+148,ARE,Day's Range,158.10 - 160.20
+149,ARE,52 Week Range,130.00 - 224.95
+150,ARE,Volume,"745,074"
+151,ARE,Avg. Volume,"1,137,733"
+152,ALGN,Previous Close,252.23
+153,ALGN,Open,252.68
+154,ALGN,Bid,0.00 x 800
+155,ALGN,Ask,299.00 x 800
+156,ALGN,Day's Range,251.60 - 262.92
+157,ALGN,52 Week Range,225.86 - 737.45
+158,ALGN,Volume,"692,901"
+159,ALGN,Avg. Volume,"971,269"
+160,ALLE,"
+","
+
+Will be right back...
+Thank you for your patience.
+Our engineers are working quickly to resolve the issue.
+"
+161,LNT,Previous Close,64.04
+162,LNT,Open,63.95
+163,LNT,Bid,63.35 x 1100
+164,LNT,Ask,63.37 x 1100
+165,LNT,Day's Range,63.17 - 64.09
+166,LNT,52 Week Range,54.20 - 65.37
+167,LNT,Volume,"908,913"
+168,LNT,Avg. Volume,"1,666,108"
+169,ALL,Previous Close,125.50
+170,ALL,Open,125.41
+171,ALL,Bid,118.00 x 1100
+172,ALL,Ask,0.00 x 900
+173,ALL,Day's Range,125.10 - 127.35
+174,ALL,52 Week Range,106.11 - 144.46
+175,ALL,Volume,"1,214,769"
+176,ALL,Avg. Volume,"1,849,067"
+177,GOOGL,Previous Close,113.86
+178,GOOGL,Open,113.50
+179,GOOGL,Bid,0.00 x 800
+180,GOOGL,Ask,0.00 x 800
+181,GOOGL,Day's Range,112.87 - 114.78
+182,GOOGL,52 Week Range,101.88 - 151.55
+183,GOOGL,Volume,"16,885,441"
+184,GOOGL,Avg. Volume,"33,393,743"
+185,GOOG,Previous Close,114.77
+186,GOOG,Open,114.45
+187,GOOG,Bid,0.00 x 1300
+188,GOOG,Ask,0.00 x 800
+189,GOOG,Day's Range,113.78 - 115.72
+190,GOOG,52 Week Range,102.21 - 152.10
+191,GOOG,Volume,"16,051,174"
+192,GOOG,Avg. Volume,"27,337,446"
+193,MO,Previous Close,45.53
+194,MO,Open,45.50
+195,MO,Bid,45.90 x 1800
+196,MO,Ask,46.18 x 800
+197,MO,Day's Range,45.40 - 45.84
+198,MO,52 Week Range,41.00 - 57.05
+199,MO,Volume,"4,166,775"
+200,MO,Avg. Volume,"10,604,153"
+201,AMZN,Previous Close,133.62
+202,AMZN,Open,132.75
+203,AMZN,Bid,135.48 x 800
+204,AMZN,Ask,0.00 x 900
+205,AMZN,Day's Range,132.10 - 135.47
+206,AMZN,52 Week Range,101.26 - 188.11
+207,AMZN,Volume,"38,626,978"
+208,AMZN,Avg. Volume,"70,404,037"
+209,AMCR,Previous Close,12.58
+210,AMCR,Open,12.63
+211,AMCR,Bid,11.98 x 38500
+212,AMCR,Ask,13.02 x 2200
+213,AMCR,Day's Range,12.50 - 12.71
+214,AMCR,52 Week Range,10.66 - 13.61
+215,AMCR,Volume,"8,960,868"
+216,AMCR,Avg. Volume,"9,746,838"
+217,AMD,Previous Close,92.49
+218,AMD,Open,92.21
+219,AMD,Bid,92.60 x 1200
+220,AMD,Ask,92.95 x 1000
+221,AMD,Day's Range,90.90 - 93.38
+222,AMD,52 Week Range,71.60 - 164.46
+223,AMD,Volume,"54,727,314"
+224,AMD,Avg. Volume,"88,733,372"
+225,AEE,Previous Close,95.83
+226,AEE,Open,95.70
+227,AEE,Bid,95.54 x 800
+228,AEE,Ask,95.55 x 1100
+229,AEE,Day's Range,94.68 - 95.95
+230,AEE,52 Week Range,80.27 - 99.20
+231,AEE,Volume,"605,587"
+232,AEE,Avg. Volume,"1,414,379"
+233,AAL,Previous Close,13.82
+234,AAL,Open,13.84
+235,AAL,Bid,14.17 x 21500
+236,AAL,Ask,14.20 x 36100
+237,AAL,Day's Range,13.77 - 14.05
+238,AAL,52 Week Range,11.93 - 22.35
+239,AAL,Volume,"17,825,078"
+240,AAL,Avg. Volume,"33,737,298"
+241,AEP,Previous Close,102.70
+242,AEP,Open,102.64
+243,AEP,Bid,0.00 x 800
+244,AEP,Ask,103.70 x 800
+245,AEP,Day's Range,101.90 - 102.78
+246,AEP,52 Week Range,80.22 - 105.48
+247,AEP,Volume,"1,382,527"
+248,AEP,Avg. Volume,"2,615,479"
+249,AXP,Previous Close,157.33
+250,AXP,Open,157.03
+251,AXP,Bid,0.00 x 1000
+252,AXP,Ask,0.00 x 1100
+253,AXP,Day's Range,156.29 - 159.56
+254,AXP,52 Week Range,134.12 - 199.55
+255,AXP,Volume,"1,896,221"
+256,AXP,Avg. Volume,"3,319,148"
+257,AIG,Previous Close,54.27
+258,AIG,Open,54.01
+259,AIG,Bid,54.13 x 800
+260,AIG,Ask,0.00 x 800
+261,AIG,Day's Range,53.72 - 54.50
+262,AIG,52 Week Range,48.40 - 65.73
+263,AIG,Volume,"2,020,143"
+264,AIG,Avg. Volume,"4,693,783"
+265,AMT,Previous Close,265.23
+266,AMT,Open,266.29
+267,AMT,Bid,0.00 x 900
+268,AMT,Ask,285.80 x 1800
+269,AMT,Day's Range,264.10 - 266.71
+270,AMT,52 Week Range,220.00 - 303.72
+271,AMT,Volume,"1,071,461"
+272,AMT,Avg. Volume,"1,836,716"
+273,AWK,Previous Close,152.80
+274,AWK,Open,153.10
+275,AWK,Bid,154.10 x 1000
+276,AWK,Ask,157.80 x 1200
+277,AWK,Day's Range,152.26 - 154.61
+278,AWK,52 Week Range,129.45 - 189.65
+279,AWK,Volume,"714,771"
+280,AWK,Avg. Volume,"794,104"
+281,AMP,Previous Close,284.74
+282,AMP,Open,279.12
+283,AMP,Bid,273.40 x 1000
+284,AMP,Ask,282.83 x 900
+285,AMP,Day's Range,276.41 - 280.17
+286,AMP,52 Week Range,219.99 - 332.37
+287,AMP,Volume,"381,101"
+288,AMP,Avg. Volume,"619,401"
+289,ABC,Previous Close,148.02
+290,ABC,Open,148.38
+291,ABC,Bid,0.00 x 1400
+292,ABC,Ask,0.00 x 1200
+293,ABC,Day's Range,147.13 - 148.74
+294,ABC,52 Week Range,113.68 - 167.19
+295,ABC,Volume,"430,647"
+296,ABC,Avg. Volume,"1,198,050"
+297,AME,Previous Close,128.90
+298,AME,Open,127.16
+299,AME,Bid,125.75 x 1100
+300,AME,Ask,125.77 x 900
+301,AME,Day's Range,125.67 - 127.65
+302,AME,52 Week Range,106.17 - 148.07
+303,AME,Volume,"533,554"
+304,AME,Avg. Volume,"996,145"
+305,AMGN,Previous Close,244.47
+306,AMGN,Open,243.57
+307,AMGN,Bid,244.68 x 1000
+308,AMGN,Ask,0.00 x 1000
+309,AMGN,Day's Range,242.63 - 244.98
+310,AMGN,52 Week Range,198.64 - 258.45
+311,AMGN,Volume,"2,329,225"
+312,AMGN,Avg. Volume,"2,962,353"
+313,APH,Previous Close,79.21
+314,APH,Open,77.84
+315,APH,Bid,76.22 x 800
+316,APH,Ask,78.76 x 800
+317,APH,Day's Range,77.18 - 78.28
+318,APH,52 Week Range,61.67 - 88.45
+319,APH,Volume,"1,055,924"
+320,APH,Avg. Volume,"2,076,750"
+321,ADI,Previous Close,164.41
+322,ADI,Open,163.81
+323,ADI,Bid,163.83 x 800
+324,ADI,Ask,0.00 x 1000
+325,ADI,Day's Range,162.25 - 164.84
+326,ADI,52 Week Range,138.50 - 191.95
+327,ADI,Volume,"3,253,083"
+328,ADI,Avg. Volume,"3,333,196"
+329,ANSS,Previous Close,259.36
+330,ANSS,Open,261.37
+331,ANSS,Bid,0.00 x 1400
+332,ANSS,Ask,0.00 x 800
+333,ANSS,Day's Range,258.66 - 262.05
+334,ANSS,52 Week Range,225.92 - 413.89
+335,ANSS,Volume,"290,752"
+336,ANSS,Avg. Volume,"480,901"
+337,AON,Previous Close,299.87
+338,AON,Open,297.00
+339,AON,Bid,292.52 x 900
+340,AON,Ask,297.13 x 900
+341,AON,Day's Range,292.40 - 298.28
+342,AON,52 Week Range,246.21 - 341.98
+343,AON,Volume,"628,982"
+344,AON,Avg. Volume,"924,320"
+345,APA,Previous Close,38.79
+346,APA,Open,39.05
+347,APA,Bid,0.00 x 1100
+348,APA,Ask,0.00 x 1100
+349,APA,Day's Range,38.80 - 40.69
+350,APA,52 Week Range,17.54 - 51.95
+351,APA,Volume,"10,305,446"
+352,APA,Avg. Volume,"8,589,280"
+353,AAPL,Previous Close,167.23
+354,AAPL,Open,167.32
+355,AAPL,Bid,169.30 x 1000
+356,AAPL,Ask,169.45 x 800
+357,AAPL,Day's Range,166.24 - 168.11
+358,AAPL,52 Week Range,129.04 - 182.94
+359,AAPL,Volume,"53,841,524"
+360,AAPL,Avg. Volume,"74,547,130"
+361,AMAT,Previous Close,101.67
+362,AMAT,Open,101.25
+363,AMAT,Bid,0.00 x 800
+364,AMAT,Ask,0.00 x 800
+365,AMAT,Day's Range,100.14 - 102.09
+366,AMAT,52 Week Range,82.67 - 167.06
+367,AMAT,Volume,"4,741,206"
+368,AMAT,Avg. Volume,"7,244,219"
+369,APTV,Previous Close,96.03
+370,APTV,Open,96.55
+371,APTV,Bid,0.00 x 900
+372,APTV,Ask,0.00 x 800
+373,APTV,Day's Range,96.30 - 98.65
+374,APTV,52 Week Range,84.14 - 180.81
+375,APTV,Volume,"1,000,664"
+376,APTV,Avg. Volume,"2,011,832"
+377,ANET,Previous Close,126.96
+378,ANET,Open,126.96
+379,ANET,Bid,0.00 x 800
+380,ANET,Ask,140.00 x 800
+381,ANET,Day's Range,125.22 - 127.13
+382,ANET,52 Week Range,85.18 - 148.57
+383,ANET,Volume,"1,484,818"
+384,ANET,Avg. Volume,"1,919,838"
+385,AJG,Previous Close,190.70
+386,AJG,Open,188.81
+387,AJG,Bid,186.54 x 800
+388,AJG,Ask,192.25 x 1100
+389,AJG,Day's Range,188.55 - 190.58
+390,AJG,52 Week Range,142.16 - 191.97
+391,AJG,Volume,"1,004,992"
+392,AJG,Avg. Volume,"814,620"
+393,AIZ,Previous Close,171.85
+394,AIZ,Open,170.04
+395,AIZ,Bid,167.40 x 900
+396,AIZ,Ask,167.54 x 800
+397,AIZ,Day's Range,166.64 - 170.06
+398,AIZ,52 Week Range,144.18 - 194.12
+399,AIZ,Volume,"90,197"
+400,AIZ,Avg. Volume,"478,920"
+401,T,Previous Close,18.06
+402,T,Open,18.07
+403,T,Bid,0.00 x 36100
+404,T,Ask,0.00 x 43500
+405,T,Day's Range,17.86 - 18.07
+406,T,52 Week Range,16.63 - 21.53
+407,T,Volume,"30,215,348"
+408,T,Avg. Volume,"37,358,017"
+409,ATO,Previous Close,118.01
+410,ATO,Open,117.71
+411,ATO,Bid,111.43 x 800
+412,ATO,Ask,117.72 x 800
+413,ATO,Day's Range,116.01 - 117.71
+414,ATO,52 Week Range,85.80 - 122.96
+415,ATO,Volume,"539,515"
+416,ATO,Avg. Volume,"952,814"
+417,ADSK,Previous Close,213.63
+418,ADSK,Open,215.02
+419,ADSK,Bid,229.00 x 800
+420,ADSK,Ask,0.00 x 800
+421,ADSK,Day's Range,213.52 - 217.27
+422,ADSK,52 Week Range,163.20 - 335.48
+423,ADSK,Volume,"1,758,851"
+424,ADSK,Avg. Volume,"1,514,053"
+425,AZO,Previous Close,"2,291.49"
+426,AZO,Open,"2,244.13"
+427,AZO,Bid,0.00 x 800
+428,AZO,Ask,0.00 x 800
+429,AZO,Day's Range,"2,206.40 - 2,246.27"
+430,AZO,52 Week Range,"1,503.30 - 2,362.24"
+431,AZO,Volume,"193,096"
+432,AZO,Avg. Volume,"160,388"
+433,AVB,Previous Close,206.67
+434,AVB,Open,207.27
+435,AVB,Bid,200.06 x 1100
+436,AVB,Ask,239.50 x 900
+437,AVB,Day's Range,206.70 - 210.42
+438,AVB,52 Week Range,183.35 - 259.05
+439,AVB,Volume,"662,479"
+440,AVB,Avg. Volume,"712,601"
+441,AVY,Previous Close,189.14
+442,AVY,Open,190.45
+443,AVY,Bid,0.00 x 1000
+444,AVY,Ask,0.00 x 1200
+445,AVY,Day's Range,186.84 - 190.62
+446,AVY,52 Week Range,151.62 - 229.24
+447,AVY,Volume,"567,597"
+448,AVY,Avg. Volume,"527,661"
+449,BKR,Previous Close,26.10
+450,BKR,Open,25.93
+451,BKR,Bid,0.00 x 3100
+452,BKR,Ask,0.00 x 800
+453,BKR,Day's Range,25.91 - 26.61
+454,BKR,52 Week Range,22.11 - 39.78
+455,BKR,Volume,"6,576,912"
+456,BKR,Avg. Volume,"9,810,720"
+457,BALL,Previous Close,61.06
+458,BALL,Open,60.91
+459,BALL,Bid,0.00 x 1300
+460,BALL,Ask,0.00 x 800
+461,BALL,Day's Range,60.68 - 61.76
+462,BALL,52 Week Range,54.77 - 98.09
+463,BALL,Volume,"1,367,413"
+464,BALL,Avg. Volume,"2,359,550"
+465,BAC,Previous Close,34.41
+466,BAC,Open,34.25
+467,BAC,Bid,34.80 x 42300
+468,BAC,Ask,0.00 x 1200
+469,BAC,Day's Range,34.05 - 34.79
+470,BAC,52 Week Range,29.67 - 50.11
+471,BAC,Volume,"30,148,190"
+472,BAC,Avg. Volume,"41,938,064"
+473,BBWI,Previous Close,36.63
+474,BBWI,Open,36.37
+475,BBWI,Bid,0.00 x 800
+476,BBWI,Ask,50.00 x 800
+477,BBWI,Day's Range,35.71 - 37.13
+478,BBWI,52 Week Range,25.75 - 82.00
+479,BBWI,Volume,"2,732,453"
+480,BBWI,Avg. Volume,"5,054,201"
+481,BAX,Previous Close,58.66
+482,BAX,Open,58.55
+483,BAX,Bid,58.26 x 900
+484,BAX,Ask,60.20 x 1400
+485,BAX,Day's Range,58.34 - 59.10
+486,BAX,52 Week Range,57.49 - 89.70
+487,BAX,Volume,"2,921,386"
+488,BAX,Avg. Volume,"3,039,138"
+489,BDX,Previous Close,257.40
+490,BDX,Open,257.42
+491,BDX,Bid,256.36 x 1000
+492,BDX,Ask,263.90 x 2200
+493,BDX,Day's Range,256.14 - 260.78
+494,BDX,52 Week Range,229.40 - 277.29
+495,BDX,Volume,"850,715"
+496,BDX,Avg. Volume,"945,032"
+497,WRB,Previous Close,61.80
+498,WRB,Open,62.00
+499,WRB,Bid,60.45 x 900
+500,WRB,Ask,63.80 x 900
+501,WRB,Day's Range,62.00 - 62.88
+502,WRB,52 Week Range,47.13 - 72.32
+503,WRB,Volume,"1,860,998"
+504,WRB,Avg. Volume,"1,481,414"
+505,BRK.B,"
+","
+
+Will be right back...
+Thank you for your patience.
+Our engineers are working quickly to resolve the issue.
+"
+506,BBY,Previous Close,78.84
+507,BBY,Open,78.49
+508,BBY,Bid,0.00 x 800
+509,BBY,Ask,79.50 x 1100
+510,BBY,Day's Range,77.59 - 78.96
+511,BBY,52 Week Range,64.29 - 141.97
+512,BBY,Volume,"1,755,766"
+513,BBY,Avg. Volume,"3,000,625"
+514,BIO,Previous Close,559.86
+515,BIO,Open,560.99
+516,BIO,Bid,399.98 x 1100
+517,BIO,Ask,565.39 x 800
+518,BIO,Day's Range,554.94 - 569.89
+519,BIO,52 Week Range,462.61 - 832.70
+520,BIO,Volume,"248,054"
+521,BIO,Avg. Volume,"194,675"
+522,TECH,"
+","
+
+Will be right back...
+Thank you for your patience.
+Our engineers are working quickly to resolve the issue.
+"
+523,BIIB,Previous Close,202.81
+524,BIIB,Open,201.74
+525,BIIB,Bid,202.14 x 800
+526,BIIB,Ask,206.10 x 900
+527,BIIB,Day's Range,200.15 - 202.90
+528,BIIB,52 Week Range,187.16 - 347.74
+529,BIIB,Volume,"698,840"
+530,BIIB,Avg. Volume,"974,248"
+531,BLK,Previous Close,696.97
+532,BLK,Open,694.89
+533,BLK,Bid,650.48 x 1100
+534,BLK,Ask,0.00 x 800
+535,BLK,Day's Range,694.01 - 704.32
+536,BLK,52 Week Range,575.60 - 973.16
+537,BLK,Volume,"357,596"
+538,BLK,Avg. Volume,"769,929"
+539,BK,Previous Close,42.97
+540,BK,Open,42.85
+541,BK,Bid,0.00 x 800
+542,BK,Ask,44.08 x 1100
+543,BK,Day's Range,42.68 - 43.29
+544,BK,52 Week Range,39.78 - 64.63
+545,BK,Volume,"2,176,954"
+546,BK,Avg. Volume,"3,616,956"
+547,BA,Previous Close,160.07
+548,BA,Open,162.27
+549,BA,Bid,0.00 x 800
+550,BA,Ask,166.30 x 800
+551,BA,Day's Range,161.38 - 164.14
+552,BA,52 Week Range,113.02 - 233.94
+553,BA,Volume,"4,069,481"
+554,BA,Avg. Volume,"9,126,996"
+555,BKNG,Previous Close,"1,992.83"
+556,BKNG,Open,"1,971.98"
+557,BKNG,Bid,0.00 x 900
+558,BKNG,Ask,0.00 x 900
+559,BKNG,Day's Range,"1,970.49 - 2,019.16"
+560,BKNG,52 Week Range,"1,669.34 - 2,715.66"
+561,BKNG,Volume,"229,332"
+562,BKNG,Avg. Volume,"401,483"
+563,BWA,Previous Close,37.14
+564,BWA,Open,37.14
+565,BWA,Bid,0.00 x 1400
+566,BWA,Ask,0.00 x 800
+567,BWA,Day's Range,36.94 - 37.60
+568,BWA,52 Week Range,32.28 - 50.09
+569,BWA,Volume,"1,166,143"
+570,BWA,Avg. Volume,"1,793,269"
+571,BXP,Previous Close,83.41
+572,BXP,Open,83.29
+573,BXP,Bid,76.78 x 1100
+574,BXP,Ask,0.00 x 800
+575,BXP,Day's Range,82.60 - 83.66
+576,BXP,52 Week Range,82.60 - 133.11
+577,BXP,Volume,"699,738"
+578,BXP,Avg. Volume,"1,152,638"
+579,BSX,Previous Close,40.86
+580,BSX,Open,40.90
+581,BSX,Bid,0.00 x 1400
+582,BSX,Ask,42.10 x 1800
+583,BSX,Day's Range,40.68 - 41.34
+584,BSX,52 Week Range,34.98 - 47.50
+585,BSX,Volume,"4,473,471"
+586,BSX,Avg. Volume,"7,423,566"
+587,BMY,Previous Close,72.77
+588,BMY,Open,73.01
+589,BMY,Bid,0.00 x 1000
+590,BMY,Ask,73.72 x 1800
+591,BMY,Day's Range,72.36 - 73.13
+592,BMY,52 Week Range,53.22 - 80.59
+593,BMY,Volume,"5,687,790"
+594,BMY,Avg. Volume,"10,751,537"
+595,AVGO,Previous Close,529.78
+596,AVGO,Open,529.56
+597,AVGO,Bid,0.00 x 1100
+598,AVGO,Ask,0.00 x 1000
+599,AVGO,Day's Range,523.44 - 531.30
+600,AVGO,52 Week Range,463.91 - 677.76
+601,AVGO,Volume,"1,188,496"
+602,AVGO,Avg. Volume,"2,029,419"
+603,BR,Previous Close,176.03
+604,BR,Open,174.10
+605,BR,Bid,170.45 x 800
+606,BR,Ask,175.54 x 800
+607,BR,Day's Range,173.77 - 175.34
+608,BR,52 Week Range,132.40 - 185.40
+609,BR,Volume,"326,076"
+610,BR,Avg. Volume,"455,588"
+611,BRO,Previous Close,66.54
+612,BRO,Open,67.03
+613,BRO,Bid,65.86 x 1100
+614,BRO,Ask,67.68 x 800
+615,BRO,Day's Range,66.84 - 67.59
+616,BRO,52 Week Range,52.91 - 74.00
+617,BRO,Volume,"1,393,144"
+618,BRO,Avg. Volume,"1,515,377"
+619,BF.B,"
+","
+
+Will be right back...
+Thank you for your patience.
+Our engineers are working quickly to resolve the issue.
+"
+620,CHRW,Previous Close,117.02
+621,CHRW,Open,116.82
+622,CHRW,Bid,0.00 x 900
+623,CHRW,Ask,0.00 x 800
+624,CHRW,Day's Range,116.82 - 119.26
+625,CHRW,52 Week Range,85.80 - 119.26
+626,CHRW,Volume,"1,140,570"
+627,CHRW,Avg. Volume,"1,224,596"
+628,CDNS,Previous Close,183.25
+629,CDNS,Open,185.40
+630,CDNS,Bid,0.00 x 800
+631,CDNS,Ask,0.00 x 1000
+632,CDNS,Day's Range,182.64 - 185.40
+633,CDNS,52 Week Range,132.32 - 194.97
+634,CDNS,Volume,"1,315,117"
+635,CDNS,Avg. Volume,"1,553,303"
+636,CZR,Previous Close,45.67
+637,CZR,Open,45.29
+638,CZR,Bid,0.00 x 800
+639,CZR,Ask,0.00 x 1000
+640,CZR,Day's Range,45.29 - 47.26
+641,CZR,52 Week Range,35.10 - 119.81
+642,CZR,Volume,"1,635,016"
+643,CZR,Avg. Volume,"3,683,593"
+644,CPT,Previous Close,136.04
+645,CPT,Open,136.08
+646,CPT,Bid,132.72 x 1000
+647,CPT,Ask,139.88 x 800
+648,CPT,Day's Range,135.65 - 137.25
+649,CPT,52 Week Range,125.17 - 180.37
+650,CPT,Volume,"638,611"
+651,CPT,Avg. Volume,"764,753"
+652,CPB,Previous Close,51.16
+653,CPB,Open,51.28
+654,CPB,Bid,0.00 x 800
+655,CPB,Ask,51.60 x 1300
+656,CPB,Day's Range,50.98 - 51.58
+657,CPB,52 Week Range,39.76 - 51.94
+658,CPB,Volume,"1,447,255"
+659,CPB,Avg. Volume,"2,365,766"
+660,COF,Previous Close,109.81
+661,COF,Open,109.85
+662,COF,Bid,109.53 x 1100
+663,COF,Ask,0.00 x 900
+664,COF,Day's Range,108.84 - 111.21
+665,COF,52 Week Range,98.54 - 175.98
+666,COF,Volume,"1,632,492"
+667,COF,Avg. Volume,"2,621,504"
+668,CAH,Previous Close,67.98
+669,CAH,Open,68.03
+670,CAH,Bid,0.00 x 800
+671,CAH,Ask,70.05 x 800
+672,CAH,Day's Range,67.82 - 68.93
+673,CAH,52 Week Range,45.85 - 71.45
+674,CAH,Volume,"1,577,593"
+675,CAH,Avg. Volume,"2,524,545"
+676,KMX,Previous Close,90.34
+677,KMX,Open,90.64
+678,KMX,Bid,0.00 x 1300
+679,KMX,Ask,0.00 x 900
+680,KMX,Day's Range,90.05 - 92.05
+681,KMX,52 Week Range,84.37 - 155.98
+682,KMX,Volume,"828,949"
+683,KMX,Avg. Volume,"1,359,887"
+684,CCL,Previous Close,9.54
+685,CCL,Open,9.51
+686,CCL,Bid,0.00 x 34100
+687,CCL,Ask,10.24 x 40700
+688,CCL,Day's Range,9.49 - 10.95
+689,CCL,52 Week Range,8.10 - 27.39
+690,CCL,Volume,"37,468,024"
+691,CCL,Avg. Volume,"54,724,250"
+692,CARR,Previous Close,41.46
+693,CARR,Open,41.45
+694,CARR,Bid,41.70 x 900
+695,CARR,Ask,0.00 x 1300
+696,CARR,Day's Range,41.33 - 41.77
+697,CARR,52 Week Range,34.12 - 58.89
+698,CARR,Volume,"3,007,126"
+699,CARR,Avg. Volume,"4,531,522"
+700,CTLT,Previous Close,106.31
+701,CTLT,Open,105.98
+702,CTLT,Bid,0.00 x 1000
+703,CTLT,Ask,0.00 x 800
+704,CTLT,Day's Range,104.76 - 106.65
+705,CTLT,52 Week Range,86.34 - 142.64
+706,CTLT,Volume,"578,613"
+707,CTLT,Avg. Volume,"1,027,553"
+708,CAT,Previous Close,197.21
+709,CAT,Open,197.56
+710,CAT,Bid,0.00 x 1200
+711,CAT,Ask,0.00 x 800
+712,CAT,Day's Range,193.45 - 198.68
+713,CAT,52 Week Range,167.08 - 237.90
+714,CAT,Volume,"2,368,446"
+715,CAT,Avg. Volume,"2,923,243"
+716,CBOE,Previous Close,123.43
+717,CBOE,Open,123.50
+718,CBOE,Bid,121.52 x 900
+719,CBOE,Ask,122.37 x 900
+720,CBOE,Day's Range,121.37 - 125.00
+721,CBOE,52 Week Range,103.82 - 135.65
+722,CBOE,Volume,"361,727"
+723,CBOE,Avg. Volume,"621,545"
+724,CBRE,Previous Close,84.92
+725,CBRE,Open,83.70
+726,CBRE,Bid,82.54 x 800
+727,CBRE,Ask,82.55 x 800
+728,CBRE,Day's Range,82.18 - 83.87
+729,CBRE,52 Week Range,67.68 - 111.00
+730,CBRE,Volume,"381,686"
+731,CBRE,Avg. Volume,"1,863,095"
+732,CDW,Previous Close,188.37
+733,CDW,Open,186.07
+734,CDW,Bid,185.01 x 800
+735,CDW,Ask,185.08 x 800
+736,CDW,Day's Range,184.66 - 187.00
+737,CDW,52 Week Range,152.15 - 208.71
+738,CDW,Volume,"998,924"
+739,CDW,Avg. Volume,"756,261"
+740,CE,Previous Close,116.00
+741,CE,Open,115.75
+742,CE,Bid,110.30 x 800
+743,CE,Ask,135.06 x 800
+744,CE,Day's Range,114.88 - 116.94
+745,CE,52 Week Range,104.74 - 176.50
+746,CE,Volume,"785,012"
+747,CE,Avg. Volume,"1,088,659"
+748,CNC,Previous Close,95.11
+749,CNC,Open,95.20
+750,CNC,Bid,93.03 x 800
+751,CNC,Ask,0.00 x 800
+752,CNC,Day's Range,94.98 - 96.01
+753,CNC,52 Week Range,59.67 - 98.53
+754,CNC,Volume,"1,402,983"
+755,CNC,Avg. Volume,"2,770,243"
+756,CNP,Previous Close,31.91
+757,CNP,Open,32.01
+758,CNP,Bid,0.00 x 1800
+759,CNP,Ask,0.00 x 1200
+760,CNP,Day's Range,31.80 - 32.33
+761,CNP,52 Week Range,24.33 - 33.00
+762,CNP,Volume,"3,147,473"
+763,CNP,Avg. Volume,"3,868,891"
+764,CDAY,Previous Close,64.88
+765,CDAY,Open,62.96
+766,CDAY,Bid,64.63 x 1000
+767,CDAY,Ask,64.85 x 1000
+768,CDAY,Day's Range,63.00 - 65.42
+769,CDAY,52 Week Range,43.23 - 130.37
+770,CDAY,Volume,"257,821"
+771,CDAY,Avg. Volume,"1,778,966"
+772,CF,Previous Close,109.05
+773,CF,Open,109.18
+774,CF,Bid,112.60 x 800
+775,CF,Ask,0.00 x 1000
+776,CF,Day's Range,109.10 - 112.87
+777,CF,52 Week Range,44.04 - 113.49
+778,CF,Volume,"3,012,696"
+779,CF,Avg. Volume,"3,022,696"
+780,CRL,Previous Close,214.48
+781,CRL,Open,220.14
+782,CRL,Bid,225.59 x 800
+783,CRL,Ask,226.23 x 900
+784,CRL,Day's Range,217.50 - 226.57
+785,CRL,52 Week Range,203.37 - 460.21
+786,CRL,Volume,"605,130"
+787,CRL,Avg. Volume,"497,883"
+788,SCHW,Previous Close,72.79
+789,SCHW,Open,72.94
+790,SCHW,Bid,0.00 x 800
+791,SCHW,Ask,74.98 x 800
+792,SCHW,Day's Range,72.72 - 73.76
+793,SCHW,52 Week Range,59.35 - 96.24
+794,SCHW,Volume,"3,600,596"
+795,SCHW,Avg. Volume,"7,877,180"
+796,CHTR,Previous Close,432.06
+797,CHTR,Open,434.04
+798,CHTR,Bid,0.00 x 800
+799,CHTR,Ask,465.10 x 800
+800,CHTR,Day's Range,428.85 - 438.65
+801,CHTR,52 Week Range,407.75 - 825.62
+802,CHTR,Volume,"1,248,436"
+803,CHTR,Avg. Volume,"1,214,758"
+804,CVX,Previous Close,161.99
+805,CVX,Open,161.66
+806,CVX,Bid,163.20 x 800
+807,CVX,Ask,0.00 x 900
+808,CVX,Day's Range,160.67 - 163.35
+809,CVX,52 Week Range,93.31 - 182.40
+810,CVX,Volume,"9,035,994"
+811,CVX,Avg. Volume,"9,794,930"
+812,CMG,Previous Close,"1,630.15"
+813,CMG,Open,"1,637.02"
+814,CMG,Bid,0.00 x 800
+815,CMG,Ask,0.00 x 1400
+816,CMG,Day's Range,"1,631.02 - 1,652.36"
+817,CMG,52 Week Range,"1,196.28 - 1,958.55"
+818,CMG,Volume,"113,203"
+819,CMG,Avg. Volume,"245,090"
+820,CB,Previous Close,196.73
+821,CB,Open,195.60
+822,CB,Bid,0.00 x 1000
+823,CB,Ask,207.08 x 800
+824,CB,Day's Range,194.35 - 196.73
+825,CB,52 Week Range,171.96 - 218.99
+826,CB,Volume,"759,817"
+827,CB,Avg. Volume,"1,786,098"
+828,CHD,Previous Close,86.63
+829,CHD,Open,86.70
+830,CHD,Bid,0.00 x 900
+831,CHD,Ask,0.00 x 900
+832,CHD,Day's Range,86.27 - 87.20
+833,CHD,52 Week Range,80.34 - 105.28
+834,CHD,Volume,"903,971"
+835,CHD,Avg. Volume,"1,550,974"
+836,CI,Previous Close,286.33
+837,CI,Open,286.69
+838,CI,Bid,279.10 x 1300
+839,CI,Ask,0.00 x 2200
+840,CI,Day's Range,285.83 - 289.60
+841,CI,52 Week Range,191.74 - 293.96
+842,CI,Volume,"1,789,790"
+843,CI,Avg. Volume,"1,986,833"
+844,CINF,Previous Close,101.16
+845,CINF,Open,101.16
+846,CINF,Bid,97.38 x 1400
+847,CINF,Ask,104.02 x 1100
+848,CINF,Day's Range,100.26 - 101.56
+849,CINF,52 Week Range,93.41 - 143.22
+850,CINF,Volume,"309,762"
+851,CINF,Avg. Volume,"779,537"
+852,CTAS,Previous Close,428.01
+853,CTAS,Open,428.08
+854,CTAS,Bid,429.58 x 900
+855,CTAS,Ask,435.32 x 800
+856,CTAS,Day's Range,426.45 - 430.46
+857,CTAS,52 Week Range,343.86 - 461.44
+858,CTAS,Volume,"249,269"
+859,CTAS,Avg. Volume,"461,379"
+860,CSCO,Previous Close,47.41
+861,CSCO,Open,47.09
+862,CSCO,Bid,0.00 x 3000
+863,CSCO,Ask,0.00 x 800
+864,CSCO,Day's Range,46.87 - 47.40
+865,CSCO,52 Week Range,40.82 - 64.29
+866,CSCO,Volume,"14,946,488"
+867,CSCO,Avg. Volume,"21,166,209"
+868,C,Previous Close,50.95
+869,C,Open,50.93
+870,C,Bid,51.19 x 1100
+871,C,Ask,51.80 x 1100
+872,C,Day's Range,50.62 - 51.29
+873,C,52 Week Range,43.44 - 73.90
+874,C,Volume,"10,601,450"
+875,C,Avg. Volume,"19,793,224"
+876,CFG,Previous Close,38.09
+877,CFG,Open,37.97
+878,CFG,Bid,0.00 x 900
+879,CFG,Ask,41.60 x 1000
+880,CFG,Day's Range,37.68 - 38.17
+881,CFG,52 Week Range,34.35 - 57.00
+882,CFG,Volume,"2,167,523"
+883,CFG,Avg. Volume,"4,404,575"
+884,CTXS,Previous Close,102.77
+885,CTXS,Open,102.76
+886,CTXS,Bid,102.51 x 800
+887,CTXS,Ask,102.93 x 800
+888,CTXS,Day's Range,102.56 - 102.99
+889,CTXS,52 Week Range,78.07 - 115.00
+890,CTXS,Volume,"388,717"
+891,CTXS,Avg. Volume,"1,091,995"
+892,CLX,Previous Close,148.10
+893,CLX,Open,147.74
+894,CLX,Bid,0.00 x 800
+895,CLX,Ask,0.00 x 800
+896,CLX,Day's Range,146.31 - 148.97
+897,CLX,52 Week Range,120.50 - 186.86
+898,CLX,Volume,"619,073"
+899,CLX,Avg. Volume,"1,258,790"
+900,CME,Previous Close,197.68
+901,CME,Open,197.99
+902,CME,Bid,0.00 x 800
+903,CME,Ask,0.00 x 800
+904,CME,Day's Range,197.23 - 199.43
+905,CME,52 Week Range,185.79 - 256.94
+906,CME,Volume,"987,811"
+907,CME,Avg. Volume,"1,413,890"
+908,CMS,Previous Close,70.94
+909,CMS,Open,70.69
+910,CMS,Bid,70.06 x 800
+911,CMS,Ask,71.57 x 900
+912,CMS,Day's Range,69.92 - 70.92
+913,CMS,52 Week Range,58.51 - 73.76
+914,CMS,Volume,"1,380,274"
+915,CMS,Avg. Volume,"1,813,496"
+916,KO,Previous Close,64.27
+917,KO,Open,64.24
+918,KO,Bid,64.38 x 2200
+919,KO,Ask,64.63 x 800
+920,KO,Day's Range,64.05 - 64.57
+921,KO,52 Week Range,52.28 - 67.20
+922,KO,Volume,"6,633,074"
+923,KO,Avg. Volume,"14,176,441"
+924,CTSH,Previous Close,66.02
+925,CTSH,Open,65.99
+926,CTSH,Bid,65.52 x 900
+927,CTSH,Ask,0.00 x 1000
+928,CTSH,Day's Range,65.51 - 66.20
+929,CTSH,52 Week Range,63.26 - 93.47
+930,CTSH,Volume,"2,384,803"
+931,CTSH,Avg. Volume,"3,069,048"
+932,CL,Previous Close,80.96
+933,CL,Open,81.19
+934,CL,Bid,80.80 x 800
+935,CL,Ask,0.00 x 900
+936,CL,Day's Range,80.46 - 81.19
+937,CL,52 Week Range,72.20 - 85.61
+938,CL,Volume,"2,213,926"
+939,CL,Avg. Volume,"4,383,880"
+940,CMCSA,Previous Close,37.24
+941,CMCSA,Open,37.21
+942,CMCSA,Bid,37.05 x 3200
+943,CMCSA,Ask,0.00 x 900
+944,CMCSA,Day's Range,37.07 - 37.66
+945,CMCSA,52 Week Range,36.57 - 61.80
+946,CMCSA,Volume,"17,668,298"
+947,CMCSA,Avg. Volume,"22,435,887"
+948,CMA,Previous Close,84.98
+949,CMA,Open,83.46
+950,CMA,Bid,82.07 x 1000
+951,CMA,Ask,84.64 x 900
+952,CMA,Day's Range,82.13 - 83.46
+953,CMA,52 Week Range,70.37 - 102.09
+954,CMA,Volume,"513,715"
+955,CMA,Avg. Volume,"1,084,645"
+956,CAG,Previous Close,35.19
+957,CAG,Open,35.23
+958,CAG,Bid,35.44 x 900
+959,CAG,Ask,35.70 x 1000
+960,CAG,Day's Range,35.03 - 35.60
+961,CAG,52 Week Range,30.06 - 36.97
+962,CAG,Volume,"2,360,006"
+963,CAG,Avg. Volume,"3,787,512"
+964,COP,Previous Close,108.45
+965,COP,Open,108.11
+966,COP,Bid,0.00 x 900
+967,COP,Ask,0.00 x 800
+968,COP,Day's Range,107.84 - 110.76
+969,COP,52 Week Range,54.42 - 124.08
+970,COP,Volume,"6,066,293"
+971,COP,Avg. Volume,"7,873,674"
+972,ED,Previous Close,98.76
+973,ED,Open,98.56
+974,ED,Bid,0.00 x 900
+975,ED,Ask,100.20 x 800
+976,ED,Day's Range,97.94 - 98.96
+977,ED,52 Week Range,71.52 - 101.57
+978,ED,Volume,"935,123"
+979,ED,Avg. Volume,"1,673,417"
+980,STZ,Previous Close,254.18
+981,STZ,Open,254.00
+982,STZ,Bid,216.75 x 800
+983,STZ,Ask,0.00 x 1000
+984,STZ,Day's Range,253.39 - 258.92
+985,STZ,52 Week Range,207.35 - 261.52
+986,STZ,Volume,"818,819"
+987,STZ,Avg. Volume,"1,016,674"
+988,CEG,Previous Close,79.75
+989,CEG,Open,79.66
+990,CEG,Bid,0.00 x 800
+991,CEG,Ask,0.00 x 1000
+992,CEG,Day's Range,79.39 - 80.82
+993,CEG,52 Week Range,38.00 - 82.43
+994,CEG,Volume,"1,430,207"
+995,CEG,Avg. Volume,"2,655,140"
+996,COO,Previous Close,313.44
+997,COO,Open,314.41
+998,COO,Bid,125.44 x 900
+999,COO,Ask,501.72 x 900
+1000,COO,Day's Range,311.80 - 315.29
+1001,COO,52 Week Range,284.01 - 463.59
+1002,COO,Volume,"170,071"
+1003,COO,Avg. Volume,"359,168"
+1004,CPRT,Previous Close,124.76
+1005,CPRT,Open,124.33
+1006,CPRT,Bid,123.89 x 800
+1007,CPRT,Ask,124.46 x 1000
+1008,CPRT,Day's Range,123.86 - 125.43
+1009,CPRT,52 Week Range,102.21 - 161.12
+1010,CPRT,Volume,"483,878"
+1011,CPRT,Avg. Volume,"1,059,556"
+1012,GLW,Previous Close,35.04
+1013,GLW,Open,34.95
+1014,GLW,Bid,0.00 x 1800
+1015,GLW,Ask,35.90 x 2900
+1016,GLW,Day's Range,34.62 - 35.19
+1017,GLW,52 Week Range,30.63 - 43.47
+1018,GLW,Volume,"5,609,320"
+1019,GLW,Avg. Volume,"4,539,156"
+1020,CTVA,Previous Close,61.77
+1021,CTVA,Open,61.90
+1022,CTVA,Bid,62.00 x 1000
+1023,CTVA,Ask,0.00 x 900
+1024,CTVA,Day's Range,61.23 - 62.47
+1025,CTVA,52 Week Range,40.72 - 64.03
+1026,CTVA,Volume,"2,252,883"
+1027,CTVA,Avg. Volume,"3,636,956"
+1028,COST,Previous Close,542.07
+1029,COST,Open,542.75
+1030,COST,Bid,0.00 x 900
+1031,COST,Ask,0.00 x 1800
+1032,COST,Day's Range,539.36 - 545.18
+1033,COST,52 Week Range,406.51 - 612.27
+1034,COST,Volume,"1,145,789"
+1035,COST,Avg. Volume,"2,429,758"
+1036,CTRA,Previous Close,30.31
+1037,CTRA,Open,30.44
+1038,CTRA,Bid,0.00 x 1300
+1039,CTRA,Ask,35.00 x 900
+1040,CTRA,Day's Range,30.08 - 31.33
+1041,CTRA,52 Week Range,14.68 - 36.55
+1042,CTRA,Volume,"6,345,167"
+1043,CTRA,Avg. Volume,"10,129,340"
+1044,CCI,Previous Close,173.11
+1045,CCI,Open,173.32
+1046,CCI,Bid,165.00 x 800
+1047,CCI,Ask,193.20 x 1100
+1048,CCI,Day's Range,173.01 - 175.55
+1049,CCI,52 Week Range,153.70 - 209.87
+1050,CCI,Volume,"1,149,441"
+1051,CCI,Avg. Volume,"1,528,659"
+1052,CSX,Previous Close,33.63
+1053,CSX,Open,33.53
+1054,CSX,Bid,0.00 x 4000
+1055,CSX,Ask,0.00 x 2900
+1056,CSX,Day's Range,33.48 - 33.90
+1057,CSX,52 Week Range,27.60 - 38.63
+1058,CSX,Volume,"13,375,457"
+1059,CSX,Avg. Volume,"15,450,219"
+1060,CMI,Previous Close,225.02
+1061,CMI,Open,224.60
+1062,CMI,Bid,0.00 x 800
+1063,CMI,Ask,0.00 x 800
+1064,CMI,Day's Range,223.46 - 225.63
+1065,CMI,52 Week Range,184.28 - 247.48
+1066,CMI,Volume,"625,369"
+1067,CMI,Avg. Volume,"889,508"
+1068,CVS,Previous Close,101.13
+1069,CVS,Open,100.75
+1070,CVS,Bid,100.20 x 800
+1071,CVS,Ask,102.60 x 1400
+1072,CVS,Day's Range,100.21 - 101.39
+1073,CVS,52 Week Range,81.78 - 111.25
+1074,CVS,Volume,"4,731,281"
+1075,CVS,Avg. Volume,"4,841,091"
+1076,DHI,Previous Close,72.86
+1077,DHI,Open,72.25
+1078,DHI,Bid,75.16 x 1200
+1079,DHI,Ask,0.00 x 800
+1080,DHI,Day's Range,71.83 - 75.71
+1081,DHI,52 Week Range,59.25 - 110.45
+1082,DHI,Volume,"2,481,241"
+1083,DHI,Avg. Volume,"3,521,427"
+1084,DHR,Previous Close,284.04
+1085,DHR,Open,285.03
+1086,DHR,Bid,0.00 x 1000
+1087,DHR,Ask,0.00 x 800
+1088,DHR,Day's Range,283.08 - 286.23
+1089,DHR,52 Week Range,233.71 - 333.96
+1090,DHR,Volume,"1,552,726"
+1091,DHR,Avg. Volume,"2,218,750"
+1092,DRI,Previous Close,126.97
+1093,DRI,Open,126.45
+1094,DRI,Bid,0.00 x 1400
+1095,DRI,Ask,0.00 x 1000
+1096,DRI,Day's Range,124.61 - 128.55
+1097,DRI,52 Week Range,110.96 - 164.28
+1098,DRI,Volume,"1,105,033"
+1099,DRI,Avg. Volume,"1,210,556"
+1100,DVA,Previous Close,92.29
+1101,DVA,Open,91.79
+1102,DVA,Bid,0.00 x 900
+1103,DVA,Ask,0.00 x 800
+1104,DVA,Day's Range,90.57 - 92.18
+1105,DVA,52 Week Range,74.97 - 133.88
+1106,DVA,Volume,"486,511"
+1107,DVA,Avg. Volume,"1,012,309"
+1108,DE,Previous Close,374.88
+1109,DE,Open,378.76
+1110,DE,Bid,381.75 x 800
+1111,DE,Ask,0.00 x 1100
+1112,DE,Day's Range,374.12 - 382.35
+1113,DE,52 Week Range,283.81 - 446.76
+1114,DE,Volume,"1,540,118"
+1115,DE,Avg. Volume,"1,602,330"
+1116,DAL,Previous Close,32.87
+1117,DAL,Open,32.88
+1118,DAL,Bid,33.58 x 1800
+1119,DAL,Ask,0.00 x 900
+1120,DAL,Day's Range,32.67 - 33.41
+1121,DAL,52 Week Range,28.10 - 46.27
+1122,DAL,Volume,"5,646,238"
+1123,DAL,Avg. Volume,"13,221,841"
+1124,XRAY,Previous Close,35.78
+1125,XRAY,Open,35.29
+1126,XRAY,Bid,33.72 x 800
+1127,XRAY,Ask,34.53 x 1300
+1128,XRAY,Day's Range,34.30 - 35.29
+1129,XRAY,52 Week Range,33.78 - 63.10
+1130,XRAY,Volume,"2,490,424"
+1131,XRAY,Avg. Volume,"1,892,350"
+1132,DVN,Previous Close,70.88
+1133,DVN,Open,71.42
+1134,DVN,Bid,0.00 x 1100
+1135,DVN,Ask,0.00 x 1000
+1136,DVN,Day's Range,70.95 - 72.76
+1137,DVN,52 Week Range,27.40 - 79.40
+1138,DVN,Volume,"12,638,685"
+1139,DVN,Avg. Volume,"12,595,701"
+1140,DXCM,Previous Close,83.63
+1141,DXCM,Open,84.11
+1142,DXCM,Bid,0.00 x 900
+1143,DXCM,Ask,0.00 x 800
+1144,DXCM,Day's Range,84.07 - 87.23
+1145,DXCM,52 Week Range,66.89 - 164.86
+1146,DXCM,Volume,"2,476,636"
+1147,DXCM,Avg. Volume,"3,173,475"
+1148,FANG,Previous Close,135.12
+1149,FANG,Open,134.80
+1150,FANG,Bid,133.31 x 800
+1151,FANG,Ask,0.00 x 900
+1152,FANG,Day's Range,134.41 - 138.00
+1153,FANG,52 Week Range,72.48 - 162.24
+1154,FANG,Volume,"3,554,363"
+1155,FANG,Avg. Volume,"2,982,504"
+1156,DLR,Previous Close,125.20
+1157,DLR,Open,124.99
+1158,DLR,Bid,125.40 x 900
+1159,DLR,Ask,0.00 x 900
+1160,DLR,Day's Range,124.58 - 127.59
+1161,DLR,52 Week Range,119.63 - 178.22
+1162,DLR,Volume,"1,172,617"
+1163,DLR,Avg. Volume,"1,542,170"
+1164,DFS,Previous Close,104.05
+1165,DFS,Open,103.77
+1166,DFS,Bid,0.00 x 800
+1167,DFS,Ask,106.20 x 800
+1168,DFS,Day's Range,103.06 - 104.86
+1169,DFS,52 Week Range,88.02 - 133.78
+1170,DFS,Volume,"814,251"
+1171,DFS,Avg. Volume,"1,892,704"
+1172,DISH,Previous Close,17.40
+1173,DISH,Open,17.56
+1174,DISH,Bid,0.00 x 2200
+1175,DISH,Ask,0.00 x 900
+1176,DISH,Day's Range,17.43 - 17.74
+1177,DISH,52 Week Range,16.20 - 46.31
+1178,DISH,Volume,"2,732,497"
+1179,DISH,Avg. Volume,"3,737,453"
+1180,DIS,Previous Close,114.86
+1181,DIS,Open,114.67
+1182,DIS,Bid,117.11 x 800
+1183,DIS,Ask,117.80 x 900
+1184,DIS,Day's Range,114.10 - 117.16
+1185,DIS,52 Week Range,90.23 - 187.58
+1186,DIS,Volume,"7,115,253"
+1187,DIS,Avg. Volume,"11,937,700"
+1188,DG,Previous Close,247.60
+1189,DG,Open,247.55
+1190,DG,Bid,249.45 x 800
+1191,DG,Ask,0.00 x 900
+1192,DG,Day's Range,246.28 - 249.62
+1193,DG,52 Week Range,183.25 - 262.21
+1194,DG,Volume,"1,694,752"
+1195,DG,Avg. Volume,"1,720,598"
+1196,DLTR,Previous Close,166.11
+1197,DLTR,Open,166.62
+1198,DLTR,Bid,0.00 x 1000
+1199,DLTR,Ask,0.00 x 1200
+1200,DLTR,Day's Range,163.77 - 166.96
+1201,DLTR,52 Week Range,84.26 - 177.19
+1202,DLTR,Volume,"2,708,398"
+1203,DLTR,Avg. Volume,"2,106,450"
+1204,D,Previous Close,83.93
+1205,D,Open,84.03
+1206,D,Bid,0.00 x 1400
+1207,D,Ask,0.00 x 800
+1208,D,Day's Range,83.68 - 84.53
+1209,D,52 Week Range,70.37 - 88.78
+1210,D,Volume,"1,963,319"
+1211,D,Avg. Volume,"3,164,150"
+1212,DPZ,Previous Close,392.46
+1213,DPZ,Open,393.32
+1214,DPZ,Bid,0.00 x 1200
+1215,DPZ,Ask,0.00 x 900
+1216,DPZ,Day's Range,390.02 - 397.36
+1217,DPZ,52 Week Range,321.15 - 567.57
+1218,DPZ,Volume,"367,144"
+1219,DPZ,Avg. Volume,"550,704"
+1220,DOV,Previous Close,133.14
+1221,DOV,Open,133.11
+1222,DOV,Bid,0.00 x 1000
+1223,DOV,Ask,0.00 x 1400
+1224,DOV,Day's Range,132.33 - 133.58
+1225,DOV,52 Week Range,116.66 - 184.05
+1226,DOV,Volume,"788,191"
+1227,DOV,Avg. Volume,"890,195"
+1228,DOW,Previous Close,55.62
+1229,DOW,Open,55.50
+1230,DOW,Bid,54.50 x 1800
+1231,DOW,Ask,54.97 x 1100
+1232,DOW,Day's Range,54.08 - 55.64
+1233,DOW,52 Week Range,48.27 - 71.86
+1234,DOW,Volume,"6,795,864"
+1235,DOW,Avg. Volume,"5,864,780"
+1236,DTE,Previous Close,133.88
+1237,DTE,Open,134.28
+1238,DTE,Bid,0.00 x 1200
+1239,DTE,Ask,140.00 x 800
+1240,DTE,Day's Range,133.44 - 134.53
+1241,DTE,52 Week Range,108.22 - 140.23
+1242,DTE,Volume,"564,836"
+1243,DTE,Avg. Volume,"899,924"
+1244,DUK,Previous Close,111.03
+1245,DUK,Open,111.20
+1246,DUK,Bid,106.93 x 1000
+1247,DUK,Ask,113.30 x 1000
+1248,DUK,Day's Range,110.33 - 111.36
+1249,DUK,52 Week Range,95.48 - 116.33
+1250,DUK,Volume,"1,651,995"
+1251,DUK,Avg. Volume,"2,562,779"
+1252,DRE,Previous Close,63.49
+1253,DRE,Open,62.90
+1254,DRE,Bid,61.58 x 800
+1255,DRE,Ask,62.19 x 900
+1256,DRE,Day's Range,61.73 - 63.21
+1257,DRE,52 Week Range,47.12 - 66.22
+1258,DRE,Volume,"1,915,987"
+1259,DRE,Avg. Volume,"2,821,872"
+1260,DD,Previous Close,59.37
+1261,DD,Open,59.58
+1262,DD,Bid,59.54 x 900
+1263,DD,Ask,60.50 x 1000
+1264,DD,Day's Range,59.03 - 59.74
+1265,DD,52 Week Range,52.57 - 85.16
+1266,DD,Volume,"1,204,667"
+1267,DD,Avg. Volume,"2,944,350"
+1268,DXC,Previous Close,25.11
+1269,DXC,Open,25.10
+1270,DXC,Bid,0.00 x 800
+1271,DXC,Ask,0.00 x 1300
+1272,DXC,Day's Range,24.81 - 25.15
+1273,DXC,52 Week Range,24.53 - 39.65
+1274,DXC,Volume,"815,664"
+1275,DXC,Avg. Volume,"1,687,500"
+1276,EMN,Previous Close,96.97
+1277,EMN,Open,97.29
+1278,EMN,Bid,0.00 x 900
+1279,EMN,Ask,0.00 x 800
+1280,EMN,Day's Range,95.95 - 97.46
+1281,EMN,52 Week Range,84.95 - 129.48
+1282,EMN,Volume,"547,954"
+1283,EMN,Avg. Volume,"1,018,166"
+1284,ETN,Previous Close,146.31
+1285,ETN,Open,146.49
+1286,ETN,Bid,143.93 x 800
+1287,ETN,Ask,0.00 x 900
+1288,ETN,Day's Range,144.89 - 146.75
+1289,ETN,52 Week Range,122.50 - 175.72
+1290,ETN,Volume,"1,001,832"
+1291,ETN,Avg. Volume,"1,629,991"
+1292,EBAY,Previous Close,45.43
+1293,EBAY,Open,45.23
+1294,EBAY,Bid,0.00 x 800
+1295,EBAY,Ask,0.00 x 900
+1296,EBAY,Day's Range,45.17 - 46.26
+1297,EBAY,52 Week Range,40.52 - 81.19
+1298,EBAY,Volume,"4,211,997"
+1299,EBAY,Avg. Volume,"6,199,506"
+1300,ECL,Previous Close,167.52
+1301,ECL,Open,169.21
+1302,ECL,Bid,0.00 x 800
+1303,ECL,Ask,247.00 x 1000
+1304,ECL,Day's Range,167.88 - 170.19
+1305,ECL,52 Week Range,143.82 - 238.93
+1306,ECL,Volume,"581,211"
+1307,ECL,Avg. Volume,"1,123,046"
+1308,EIX,Previous Close,69.36
+1309,EIX,Open,69.07
+1310,EIX,Bid,57.60 x 800
+1311,EIX,Ask,0.00 x 1000
+1312,EIX,Day's Range,68.36 - 69.26
+1313,EIX,52 Week Range,54.98 - 73.32
+1314,EIX,Volume,"965,054"
+1315,EIX,Avg. Volume,"1,653,182"
+1316,EW,Previous Close,94.15
+1317,EW,Open,94.82
+1318,EW,Bid,0.00 x 900
+1319,EW,Ask,96.54 x 1000
+1320,EW,Day's Range,93.50 - 95.59
+1321,EW,52 Week Range,85.58 - 131.73
+1322,EW,Volume,"2,483,073"
+1323,EW,Avg. Volume,"2,533,233"
+1324,EA,Previous Close,126.73
+1325,EA,Open,126.47
+1326,EA,Bid,125.84 x 800
+1327,EA,Ask,128.40 x 900
+1328,EA,Day's Range,125.50 - 127.02
+1329,EA,52 Week Range,109.24 - 147.76
+1330,EA,Volume,"1,405,870"
+1331,EA,Avg. Volume,"1,968,917"
+1332,ELV,Previous Close,493.23
+1333,ELV,Open,492.53
+1334,ELV,Bid,0.00 x 1000
+1335,ELV,Ask,0.00 x 1100
+1336,ELV,Day's Range,489.03 - 495.53
+1337,ELV,52 Week Range,355.43 - 533.68
+1338,ELV,Volume,"591,162"
+1339,ELV,Avg. Volume,"1,007,456"
+1340,LLY,Previous Close,315.10
+1341,LLY,Open,316.47
+1342,LLY,Bid,0.00 x 1200
+1343,LLY,Ask,0.00 x 800
+1344,LLY,Day's Range,315.22 - 320.86
+1345,LLY,52 Week Range,220.20 - 335.33
+1346,LLY,Volume,"1,778,382"
+1347,LLY,Avg. Volume,"2,829,820"
+1348,EMR,Previous Close,86.73
+1349,EMR,Open,86.94
+1350,EMR,Bid,0.00 x 1000
+1351,EMR,Ask,0.00 x 800
+1352,EMR,Day's Range,86.28 - 87.25
+1353,EMR,52 Week Range,76.16 - 105.99
+1354,EMR,Volume,"1,261,256"
+1355,EMR,Avg. Volume,"2,724,101"
+1356,ENPH,Previous Close,285.41
+1357,ENPH,Open,285.45
+1358,ENPH,Bid,0.00 x 900
+1359,ENPH,Ask,297.99 x 800
+1360,ENPH,Day's Range,284.46 - 297.65
+1361,ENPH,52 Week Range,113.40 - 308.88
+1362,ENPH,Volume,"1,988,216"
+1363,ENPH,Avg. Volume,"3,160,769"
+1364,ETR,Previous Close,121.65
+1365,ETR,Open,121.07
+1366,ETR,Bid,119.52 x 900
+1367,ETR,Ask,121.17 x 900
+1368,ETR,Day's Range,120.32 - 121.94
+1369,ETR,52 Week Range,98.50 - 126.82
+1370,ETR,Volume,"938,774"
+1371,ETR,Avg. Volume,"1,043,785"
+1372,EOG,Previous Close,121.78
+1373,EOG,Open,122.49
+1374,EOG,Bid,121.87 x 1000
+1375,EOG,Ask,125.92 x 900
+1376,EOG,Day's Range,120.66 - 124.57
+1377,EOG,52 Week Range,66.05 - 147.99
+1378,EOG,Volume,"3,469,240"
+1379,EOG,Avg. Volume,"4,286,450"
+1380,EPAM,Previous Close,434.70
+1381,EPAM,Open,436.33
+1382,EPAM,Bid,0.00 x 800
+1383,EPAM,Ask,0.00 x 900
+1384,EPAM,Day's Range,432.54 - 440.95
+1385,EPAM,52 Week Range,168.59 - 725.40
+1386,EPAM,Volume,"274,671"
+1387,EPAM,Avg. Volume,"522,904"
+1388,EFX,Previous Close,208.69
+1389,EFX,Open,206.39
+1390,EFX,Bid,207.93 x 800
+1391,EFX,Ask,208.07 x 900
+1392,EFX,Day's Range,205.05 - 208.23
+1393,EFX,52 Week Range,169.25 - 300.11
+1394,EFX,Volume,"109,167"
+1395,EFX,Avg. Volume,"734,722"
+1396,EQIX,Previous Close,667.78
+1397,EQIX,Open,669.96
+1398,EQIX,Bid,0.00 x 800
+1399,EQIX,Ask,0.00 x 800
+1400,EQIX,Day's Range,666.13 - 678.79
+1401,EQIX,52 Week Range,606.12 - 885.26
+1402,EQIX,Volume,"349,610"
+1403,EQIX,Avg. Volume,"480,041"
+1404,EQR,Previous Close,75.33
+1405,EQR,Open,75.26
+1406,EQR,Bid,0.00 x 800
+1407,EQR,Ask,0.00 x 900
+1408,EQR,Day's Range,75.26 - 76.97
+1409,EQR,52 Week Range,67.48 - 94.32
+1410,EQR,Volume,"1,399,484"
+1411,EQR,Avg. Volume,"1,602,082"
+1412,ESS,Previous Close,290.01
+1413,ESS,Open,286.84
+1414,ESS,Bid,280.65 x 800
+1415,ESS,Ask,288.49 x 800
+1416,ESS,Day's Range,279.65 - 287.95
+1417,ESS,52 Week Range,250.62 - 363.36
+1418,ESS,Volume,"330,971"
+1419,ESS,Avg. Volume,"454,912"
+1420,EL,Previous Close,265.56
+1421,EL,Open,266.00
+1422,EL,Bid,0.00 x 1200
+1423,EL,Ask,0.00 x 900
+1424,EL,Day's Range,263.81 - 267.48
+1425,EL,52 Week Range,225.39 - 374.20
+1426,EL,Volume,"1,161,700"
+1427,EL,Avg. Volume,"1,337,096"
+1428,ETSY,Previous Close,103.74
+1429,ETSY,Open,105.26
+1430,ETSY,Bid,106.70 x 1300
+1431,ETSY,Ask,108.32 x 1300
+1432,ETSY,Day's Range,104.23 - 107.81
+1433,ETSY,52 Week Range,67.01 - 307.75
+1434,ETSY,Volume,"2,038,513"
+1435,ETSY,Avg. Volume,"3,982,535"
+1436,RE,Previous Close,258.26
+1437,RE,Open,258.33
+1438,RE,Bid,261.08 x 800
+1439,RE,Ask,276.27 x 800
+1440,RE,Day's Range,256.42 - 261.77
+1441,RE,52 Week Range,248.63 - 308.20
+1442,RE,Volume,"417,784"
+1443,RE,Avg. Volume,"243,638"
+1444,EVRG,Previous Close,71.33
+1445,EVRG,Open,71.04
+1446,EVRG,Bid,70.58 x 1000
+1447,EVRG,Ask,70.62 x 800
+1448,EVRG,Day's Range,70.45 - 71.33
+1449,EVRG,52 Week Range,59.34 - 73.13
+1450,EVRG,Volume,"255,120"
+1451,EVRG,Avg. Volume,"1,146,372"
+1452,ES,Previous Close,93.63
+1453,ES,Open,93.41
+1454,ES,Bid,90.38 x 900
+1455,ES,Ask,94.19 x 800
+1456,ES,Day's Range,91.76 - 93.55
+1457,ES,52 Week Range,77.07 - 94.63
+1458,ES,Volume,"922,712"
+1459,ES,Avg. Volume,"1,463,625"
+1460,EXC,Previous Close,45.07
+1461,EXC,Open,44.96
+1462,EXC,Bid,0.00 x 1400
+1463,EXC,Ask,0.00 x 900
+1464,EXC,Day's Range,44.92 - 45.54
+1465,EXC,52 Week Range,33.88 - 50.71
+1466,EXC,Volume,"8,468,117"
+1467,EXC,Avg. Volume,"6,146,691"
+1468,EXPE,Previous Close,105.97
+1469,EXPE,Open,105.46
+1470,EXPE,Bid,107.20 x 1000
+1471,EXPE,Ask,109.90 x 800
+1472,EXPE,Day's Range,104.26 - 107.67
+1473,EXPE,52 Week Range,88.70 - 217.72
+1474,EXPE,Volume,"1,903,222"
+1475,EXPE,Avg. Volume,"2,959,780"
+1476,EXPD,Previous Close,107.19
+1477,EXPD,Open,105.99
+1478,EXPD,Bid,106.98 x 1000
+1479,EXPD,Ask,107.01 x 800
+1480,EXPD,Day's Range,105.57 - 107.25
+1481,EXPD,52 Week Range,92.58 - 137.80
+1482,EXPD,Volume,"877,904"
+1483,EXPD,Avg. Volume,"1,185,538"
+1484,EXR,Previous Close,205.64
+1485,EXR,Open,206.19
+1486,EXR,Bid,0.00 x 800
+1487,EXR,Ask,0.00 x 1000
+1488,EXR,Day's Range,206.03 - 210.00
+1489,EXR,52 Week Range,156.70 - 228.84
+1490,EXR,Volume,"534,648"
+1491,EXR,Avg. Volume,"621,651"
+1492,XOM,Previous Close,98.00
+1493,XOM,Open,98.01
+1494,XOM,Bid,99.00 x 1000
+1495,XOM,Ask,99.30 x 1800
+1496,XOM,Day's Range,97.36 - 98.96
+1497,XOM,52 Week Range,52.96 - 105.57
+1498,XOM,Volume,"16,750,445"
+1499,XOM,Avg. Volume,"24,485,480"
+1500,FFIV,Previous Close,166.07
+1501,FFIV,Open,166.17
+1502,FFIV,Bid,166.26 x 1200
+1503,FFIV,Ask,166.26 x 800
+1504,FFIV,Day's Range,165.79 - 167.32
+1505,FFIV,52 Week Range,142.43 - 249.00
+1506,FFIV,Volume,"196,691"
+1507,FFIV,Avg. Volume,"504,162"
+1508,FDS,"
+","
+
+Will be right back...
+Thank you for your patience.
+Our engineers are working quickly to resolve the issue.
+"
+1509,FAST,Previous Close,52.79
+1510,FAST,Open,53.05
+1511,FAST,Bid,52.13 x 900
+1512,FAST,Ask,53.93 x 900
+1513,FAST,Day's Range,52.60 - 53.28
+1514,FAST,52 Week Range,45.68 - 64.75
+1515,FAST,Volume,"1,959,924"
+1516,FAST,Avg. Volume,"3,150,520"
+1517,FRT,Previous Close,106.12
+1518,FRT,Open,106.23
+1519,FRT,Bid,0.00 x 800
+1520,FRT,Ask,130.33 x 900
+1521,FRT,Day's Range,105.75 - 106.88
+1522,FRT,52 Week Range,92.02 - 140.51
+1523,FRT,Volume,"323,645"
+1524,FRT,Avg. Volume,"561,585"
+1525,FDX,Previous Close,225.26
+1526,FDX,Open,224.88
+1527,FDX,Bid,0.00 x 800
+1528,FDX,Ask,228.62 x 1200
+1529,FDX,Day's Range,222.90 - 227.41
+1530,FDX,52 Week Range,192.82 - 269.94
+1531,FDX,Volume,"1,067,388"
+1532,FDX,Avg. Volume,"2,233,245"
+1533,FITB,Previous Close,35.62
+1534,FITB,Open,35.53
+1535,FITB,Bid,0.00 x 1800
+1536,FITB,Ask,0.00 x 800
+1537,FITB,Day's Range,35.19 - 35.75
+1538,FITB,52 Week Range,31.80 - 50.64
+1539,FITB,Volume,"1,941,053"
+1540,FITB,Avg. Volume,"4,422,822"
+1541,FRC,"
+","
+
+Will be right back...
+Thank you for your patience.
+Our engineers are working quickly to resolve the issue.
+"
+1542,FE,Previous Close,40.48
+1543,FE,Open,40.48
+1544,FE,Bid,0.00 x 3100
+1545,FE,Ask,0.00 x 1800
+1546,FE,Day's Range,40.25 - 41.00
+1547,FE,52 Week Range,35.32 - 48.85
+1548,FE,Volume,"2,608,652"
+1549,FE,Avg. Volume,"3,778,229"
+1550,FIS,Previous Close,95.56
+1551,FIS,Open,95.46
+1552,FIS,Bid,94.14 x 800
+1553,FIS,Ask,0.00 x 800
+1554,FIS,Day's Range,94.18 - 95.91
+1555,FIS,52 Week Range,85.00 - 130.55
+1556,FIS,Volume,"3,875,094"
+1557,FIS,Avg. Volume,"3,305,393"
+1558,FISV,Previous Close,106.01
+1559,FISV,Open,105.40
+1560,FISV,Bid,0.00 x 800
+1561,FISV,Ask,0.00 x 900
+1562,FISV,Day's Range,104.80 - 106.53
+1563,FISV,52 Week Range,87.03 - 118.99
+1564,FISV,Volume,"3,061,657"
+1565,FISV,Avg. Volume,"3,203,914"
+1566,FLT,Previous Close,226.63
+1567,FLT,Open,230.21
+1568,FLT,Bid,227.41 x 800
+1569,FLT,Ask,227.87 x 900
+1570,FLT,Day's Range,227.59 - 233.20
+1571,FLT,52 Week Range,200.78 - 282.02
+1572,FLT,Volume,"140,211"
+1573,FLT,Avg. Volume,"566,287"
+1574,FMC,Previous Close,113.29
+1575,FMC,Open,113.50
+1576,FMC,Bid,91.95 x 900
+1577,FMC,Ask,0.00 x 1200
+1578,FMC,Day's Range,113.23 - 115.96
+1579,FMC,52 Week Range,87.42 - 140.99
+1580,FMC,Volume,"820,545"
+1581,FMC,Avg. Volume,"819,153"
+1582,F,Previous Close,15.32
+1583,F,Open,15.32
+1584,F,Bid,0.00 x 29200
+1585,F,Ask,15.75 x 27000
+1586,F,Day's Range,15.24 - 15.66
+1587,F,52 Week Range,10.61 - 25.87
+1588,F,Volume,"39,055,427"
+1589,F,Avg. Volume,"60,428,208"
+1590,FTNT,Previous Close,50.59
+1591,FTNT,Open,50.74
+1592,FTNT,Bid,0.00 x 800
+1593,FTNT,Ask,0.00 x 1000
+1594,FTNT,Day's Range,49.98 - 50.86
+1595,FTNT,52 Week Range,48.73 - 74.35
+1596,FTNT,Volume,"3,362,938"
+1597,FTNT,Avg. Volume,"5,415,169"
+1598,FTV,Previous Close,67.56
+1599,FTV,Open,66.52
+1600,FTV,Bid,66.37 x 900
+1601,FTV,Ask,66.41 x 800
+1602,FTV,Day's Range,66.32 - 66.63
+1603,FTV,52 Week Range,52.47 - 79.87
+1604,FTV,Volume,"665,110"
+1605,FTV,Avg. Volume,"2,090,708"
+1606,FBHS,Previous Close,69.20
+1607,FBHS,Open,68.85
+1608,FBHS,Bid,66.30 x 800
+1609,FBHS,Ask,81.64 x 900
+1610,FBHS,Day's Range,67.09 - 68.85
+1611,FBHS,52 Week Range,56.86 - 109.23
+1612,FBHS,Volume,"1,467,233"
+1613,FBHS,Avg. Volume,"1,169,914"
+1614,FOXA,Previous Close,34.88
+1615,FOXA,Open,35.18
+1616,FOXA,Bid,36.41 x 1100
+1617,FOXA,Ask,37.09 x 1100
+1618,FOXA,Day's Range,35.18 - 36.54
+1619,FOXA,52 Week Range,31.33 - 44.95
+1620,FOXA,Volume,"2,739,687"
+1621,FOXA,Avg. Volume,"2,348,538"
+1622,FOX,Previous Close,32.91
+1623,FOX,Open,32.60
+1624,FOX,Bid,30.91 x 800
+1625,FOX,Ask,32.06 x 800
+1626,FOX,Day's Range,31.83 - 32.60
+1627,FOX,52 Week Range,28.96 - 40.91
+1628,FOX,Volume,"667,126"
+1629,FOX,Avg. Volume,"1,022,093"
+1630,BEN,Previous Close,27.03
+1631,BEN,Open,27.07
+1632,BEN,Bid,0.00 x 1300
+1633,BEN,Ask,32.02 x 1000
+1634,BEN,Day's Range,26.91 - 27.20
+1635,BEN,52 Week Range,22.61 - 38.27
+1636,BEN,Volume,"1,287,436"
+1637,BEN,Avg. Volume,"2,644,700"
+1638,FCX,Previous Close,31.79
+1639,FCX,Open,31.07
+1640,FCX,Bid,0.00 x 1800
+1641,FCX,Ask,31.95 x 1200
+1642,FCX,Day's Range,30.90 - 31.65
+1643,FCX,52 Week Range,24.80 - 51.99
+1644,FCX,Volume,"10,371,704"
+1645,FCX,Avg. Volume,"19,814,445"
+1646,GRMN,Previous Close,93.83
+1647,GRMN,Open,93.91
+1648,GRMN,Bid,91.33 x 800
+1649,GRMN,Ask,100.00 x 800
+1650,GRMN,Day's Range,93.20 - 94.37
+1651,GRMN,52 Week Range,92.31 - 178.81
+1652,GRMN,Volume,"591,463"
+1653,GRMN,Avg. Volume,"999,554"
+1654,IT,Previous Close,307.98
+1655,IT,Open,303.00
+1656,IT,Bid,303.48 x 800
+1657,IT,Ask,303.68 x 900
+1658,IT,Day's Range,301.87 - 306.42
+1659,IT,52 Week Range,221.39 - 369.00
+1660,IT,Volume,"520,195"
+1661,IT,Avg. Volume,"462,351"
+1662,GNRC,Previous Close,243.30
+1663,GNRC,Open,244.41
+1664,GNRC,Bid,238.00 x 1200
+1665,GNRC,Ask,0.00 x 800
+1666,GNRC,Day's Range,241.96 - 247.38
+1667,GNRC,52 Week Range,197.94 - 524.31
+1668,GNRC,Volume,"536,745"
+1669,GNRC,Avg. Volume,"990,590"
+1670,GD,Previous Close,234.00
+1671,GD,Open,234.86
+1672,GD,Bid,0.00 x 1300
+1673,GD,Ask,244.84 x 800
+1674,GD,Day's Range,232.85 - 235.27
+1675,GD,52 Week Range,188.64 - 254.99
+1676,GD,Volume,"736,034"
+1677,GD,Avg. Volume,"1,124,179"
+1678,GE,Previous Close,76.10
+1679,GE,Open,76.15
+1680,GE,Bid,76.77 x 900
+1681,GE,Ask,78.12 x 2200
+1682,GE,Day's Range,75.88 - 77.28
+1683,GE,52 Week Range,59.93 - 116.17
+1684,GE,Volume,"4,690,045"
+1685,GE,Avg. Volume,"6,537,650"
+1686,GIS,Previous Close,77.87
+1687,GIS,Open,78.04
+1688,GIS,Bid,0.00 x 1400
+1689,GIS,Ask,78.99 x 1000
+1690,GIS,Day's Range,77.68 - 78.54
+1691,GIS,52 Week Range,56.67 - 78.54
+1692,GIS,Volume,"2,207,335"
+1693,GIS,Avg. Volume,"3,650,253"
+1694,GM,Previous Close,38.56
+1695,GM,Open,38.61
+1696,GM,Bid,0.00 x 3000
+1697,GM,Ask,39.75 x 1400
+1698,GM,Day's Range,38.32 - 39.73
+1699,GM,52 Week Range,30.33 - 67.21
+1700,GM,Volume,"12,597,479"
+1701,GM,Avg. Volume,"14,661,669"
+1702,GPC,Previous Close,157.74
+1703,GPC,Open,156.95
+1704,GPC,Bid,128.57 x 800
+1705,GPC,Ask,166.51 x 900
+1706,GPC,Day's Range,155.81 - 158.00
+1707,GPC,52 Week Range,115.63 - 161.45
+1708,GPC,Volume,"714,990"
+1709,GPC,Avg. Volume,"814,154"
+1710,GILD,Previous Close,63.68
+1711,GILD,Open,63.70
+1712,GILD,Bid,63.41 x 1400
+1713,GILD,Ask,64.04 x 1000
+1714,GILD,Day's Range,63.20 - 63.81
+1715,GILD,52 Week Range,57.17 - 74.12
+1716,GILD,Volume,"3,643,094"
+1717,GILD,Avg. Volume,"6,748,479"
+1718,GL,"
+","
+
+Will be right back...
+Thank you for your patience.
+Our engineers are working quickly to resolve the issue.
+"
+1719,GPN,Previous Close,128.74
+1720,GPN,Open,129.03
+1721,GPN,Bid,125.68 x 900
+1722,GPN,Ask,0.00 x 800
+1723,GPN,Day's Range,127.57 - 129.44
+1724,GPN,52 Week Range,105.52 - 175.73
+1725,GPN,Volume,"1,156,215"
+1726,GPN,Avg. Volume,"1,672,045"
+1727,GS,Previous Close,340.18
+1728,GS,Open,339.02
+1729,GS,Bid,338.50 x 900
+1730,GS,Ask,0.00 x 900
+1731,GS,Day's Range,338.49 - 344.32
+1732,GS,52 Week Range,277.84 - 426.16
+1733,GS,Volume,"1,447,797"
+1734,GS,Avg. Volume,"2,395,748"
+1735,HAL,Previous Close,31.22
+1736,HAL,Open,31.15
+1737,HAL,Bid,31.76 x 2200
+1738,HAL,Ask,32.50 x 1300
+1739,HAL,Day's Range,31.02 - 31.86
+1740,HAL,52 Week Range,19.09 - 43.99
+1741,HAL,Volume,"9,470,702"
+1742,HAL,Avg. Volume,"11,216,867"
+1743,HIG,Previous Close,67.17
+1744,HIG,Open,67.22
+1745,HIG,Bid,66.00 x 1000
+1746,HIG,Ask,0.00 x 800
+1747,HIG,Day's Range,65.20 - 67.27
+1748,HIG,52 Week Range,61.59 - 78.17
+1749,HIG,Volume,"1,284,740"
+1750,HIG,Avg. Volume,"1,853,488"
+1751,HAS,Previous Close,82.33
+1752,HAS,Open,82.50
+1753,HAS,Bid,0.00 x 900
+1754,HAS,Ask,0.00 x 1000
+1755,HAS,Day's Range,82.14 - 83.38
+1756,HAS,52 Week Range,76.94 - 105.73
+1757,HAS,Volume,"670,759"
+1758,HAS,Avg. Volume,"1,044,675"
+1759,HCA,Previous Close,210.25
+1760,HCA,Open,210.43
+1761,HCA,Bid,0.00 x 900
+1762,HCA,Ask,240.98 x 800
+1763,HCA,Day's Range,209.04 - 212.74
+1764,HCA,52 Week Range,164.47 - 279.02
+1765,HCA,Volume,"1,015,140"
+1766,HCA,Avg. Volume,"1,806,962"
+1767,PEAK,Previous Close,28.37
+1768,PEAK,Open,28.42
+1769,PEAK,Bid,28.28 x 900
+1770,PEAK,Ask,28.29 x 900
+1771,PEAK,Day's Range,28.15 - 28.43
+1772,PEAK,52 Week Range,23.23 - 36.85
+1773,PEAK,Volume,"677,792"
+1774,PEAK,Avg. Volume,"4,517,900"
+1775,HSIC,Previous Close,76.41
+1776,HSIC,Open,75.85
+1777,HSIC,Bid,75.52 x 1000
+1778,HSIC,Ask,77.71 x 800
+1779,HSIC,Day's Range,75.31 - 75.90
+1780,HSIC,52 Week Range,70.25 - 92.68
+1781,HSIC,Volume,"869,154"
+1782,HSIC,Avg. Volume,"789,477"
+1783,HSY,Previous Close,232.56
+1784,HSY,Open,233.33
+1785,HSY,Bid,0.00 x 900
+1786,HSY,Ask,233.29 x 900
+1787,HSY,Day's Range,232.33 - 234.56
+1788,HSY,52 Week Range,167.80 - 234.56
+1789,HSY,Volume,"609,986"
+1790,HSY,Avg. Volume,"953,650"
+1791,HES,Previous Close,120.14
+1792,HES,Open,120.29
+1793,HES,Bid,114.01 x 800
+1794,HES,Ask,134.13 x 800
+1795,HES,Day's Range,119.82 - 123.42
+1796,HES,52 Week Range,66.20 - 131.44
+1797,HES,Volume,"1,081,450"
+1798,HES,Avg. Volume,"2,169,537"
+1799,HPE,Previous Close,14.41
+1800,HPE,Open,14.40
+1801,HPE,Bid,14.29 x 3200
+1802,HPE,Ask,14.61 x 27000
+1803,HPE,Day's Range,14.24 - 14.48
+1804,HPE,52 Week Range,12.40 - 17.76
+1805,HPE,Volume,"12,702,592"
+1806,HPE,Avg. Volume,"10,027,998"
+1807,HLT,Previous Close,132.28
+1808,HLT,Open,132.04
+1809,HLT,Bid,0.00 x 900
+1810,HLT,Ask,136.20 x 900
+1811,HLT,Day's Range,132.04 - 134.30
+1812,HLT,52 Week Range,108.41 - 167.99
+1813,HLT,Volume,"1,005,958"
+1814,HLT,Avg. Volume,"2,024,293"
+1815,HOLX,Previous Close,71.46
+1816,HOLX,Open,71.07
+1817,HOLX,Bid,70.67 x 800
+1818,HOLX,Ask,70.67 x 800
+1819,HOLX,Day's Range,70.54 - 71.56
+1820,HOLX,52 Week Range,66.58 - 81.04
+1821,HOLX,Volume,"356,162"
+1822,HOLX,Avg. Volume,"1,758,216"
+1823,HD,Previous Close,306.90
+1824,HD,Open,305.05
+1825,HD,Bid,0.00 x 1100
+1826,HD,Ask,0.00 x 800
+1827,HD,Day's Range,303.55 - 309.98
+1828,HD,52 Week Range,264.51 - 420.61
+1829,HD,Volume,"2,296,880"
+1830,HD,Avg. Volume,"3,610,725"
+1831,HON,Previous Close,197.55
+1832,HON,Open,196.74
+1833,HON,Bid,0.00 x 1200
+1834,HON,Ask,0.00 x 1100
+1835,HON,Day's Range,196.32 - 198.49
+1836,HON,52 Week Range,167.35 - 233.56
+1837,HON,Volume,"1,351,784"
+1838,HON,Avg. Volume,"2,532,750"
+1839,HRL,Previous Close,51.27
+1840,HRL,Open,51.39
+1841,HRL,Bid,0.00 x 900
+1842,HRL,Ask,0.00 x 800
+1843,HRL,Day's Range,51.13 - 51.56
+1844,HRL,52 Week Range,40.48 - 55.11
+1845,HRL,Volume,"832,347"
+1846,HRL,Avg. Volume,"1,529,000"
+1847,HST,Previous Close,18.46
+1848,HST,Open,18.55
+1849,HST,Bid,0.00 x 4000
+1850,HST,Ask,0.00 x 1000
+1851,HST,Day's Range,18.43 - 18.73
+1852,HST,52 Week Range,15.10 - 21.63
+1853,HST,Volume,"3,241,525"
+1854,HST,Avg. Volume,"8,295,483"
+1855,HWM,Previous Close,36.68
+1856,HWM,Open,36.77
+1857,HWM,Bid,0.00 x 1000
+1858,HWM,Ask,0.00 x 900
+1859,HWM,Day's Range,36.70 - 37.21
+1860,HWM,52 Week Range,27.41 - 38.99
+1861,HWM,Volume,"1,518,924"
+1862,HWM,Avg. Volume,"2,858,879"
+1863,HPQ,Previous Close,33.40
+1864,HPQ,Open,33.20
+1865,HPQ,Bid,0.00 x 3100
+1866,HPQ,Ask,33.53 x 2900
+1867,HPQ,Day's Range,32.92 - 33.46
+1868,HPQ,52 Week Range,26.11 - 41.47
+1869,HPQ,Volume,"6,354,075"
+1870,HPQ,Avg. Volume,"8,799,014"
+1871,HUM,Previous Close,493.19
+1872,HUM,Open,493.40
+1873,HUM,Bid,0.00 x 800
+1874,HUM,Ask,0.00 x 900
+1875,HUM,Day's Range,493.29 - 498.58
+1876,HUM,52 Week Range,351.20 - 504.99
+1877,HUM,Volume,"401,077"
+1878,HUM,Avg. Volume,"784,691"
+1879,HBAN,Previous Close,13.72
+1880,HBAN,Open,13.64
+1881,HBAN,Bid,0.00 x 36200
+1882,HBAN,Ask,14.85 x 21500
+1883,HBAN,Day's Range,13.62 - 13.83
+1884,HBAN,52 Week Range,11.67 - 17.79
+1885,HBAN,Volume,"8,704,518"
+1886,HBAN,Avg. Volume,"11,773,838"
+1887,HII,Previous Close,236.14
+1888,HII,Open,237.19
+1889,HII,Bid,174.00 x 800
+1890,HII,Ask,253.24 x 800
+1891,HII,Day's Range,236.94 - 239.87
+1892,HII,52 Week Range,175.50 - 239.87
+1893,HII,Volume,"243,742"
+1894,HII,Avg. Volume,"328,437"
+1895,IBM,Previous Close,134.74
+1896,IBM,Open,134.89
+1897,IBM,Bid,0.00 x 800
+1898,IBM,Ask,0.00 x 800
+1899,IBM,Day's Range,133.11 - 135.11
+1900,IBM,52 Week Range,114.56 - 144.73
+1901,IBM,Volume,"2,671,046"
+1902,IBM,Avg. Volume,"5,063,814"
+1903,IEX,"
+","
+
+Will be right back...
+Thank you for your patience.
+Our engineers are working quickly to resolve the issue.
+"
+1904,IDXX,Previous Close,356.91
+1905,IDXX,Open,358.16
+1906,IDXX,Bid,305.77 x 1000
+1907,IDXX,Ask,0.00 x 800
+1908,IDXX,Day's Range,355.95 - 362.75
+1909,IDXX,52 Week Range,318.50 - 695.18
+1910,IDXX,Volume,"549,387"
+1911,IDXX,Avg. Volume,"599,701"
+1912,ITW,Previous Close,205.40
+1913,ITW,Open,205.87
+1914,ITW,Bid,204.12 x 900
+1915,ITW,Ask,221.90 x 900
+1916,ITW,Day's Range,204.57 - 206.06
+1917,ITW,52 Week Range,173.52 - 249.81
+1918,ITW,Volume,"638,265"
+1919,ITW,Avg. Volume,"1,020,683"
+1920,ILMN,Previous Close,194.84
+1921,ILMN,Open,195.65
+1922,ILMN,Bid,209.04 x 900
+1923,ILMN,Ask,216.00 x 1000
+1924,ILMN,Day's Range,195.38 - 211.96
+1925,ILMN,52 Week Range,173.45 - 486.10
+1926,ILMN,Volume,"2,220,156"
+1927,ILMN,Avg. Volume,"1,548,911"
+1928,INCY,Previous Close,72.99
+1929,INCY,Open,73.11
+1930,INCY,Bid,0.00 x 800
+1931,INCY,Ask,0.00 x 800
+1932,INCY,Day's Range,72.74 - 73.52
+1933,INCY,52 Week Range,61.91 - 84.86
+1934,INCY,Volume,"656,682"
+1935,INCY,Avg. Volume,"1,440,508"
+1936,IR,Previous Close,51.82
+1937,IR,Open,50.81
+1938,IR,Bid,49.41 x 900
+1939,IR,Ask,49.41 x 900
+1940,IR,Day's Range,49.37 - 50.97
+1941,IR,52 Week Range,39.28 - 62.64
+1942,IR,Volume,"4,056,363"
+1943,IR,Avg. Volume,"2,991,543"
+1944,INTC,Previous Close,33.95
+1945,INTC,Open,33.97
+1946,INTC,Bid,0.00 x 4000
+1947,INTC,Ask,34.08 x 1200
+1948,INTC,Day's Range,33.60 - 33.99
+1949,INTC,52 Week Range,33.60 - 56.28
+1950,INTC,Volume,"25,105,652"
+1951,INTC,Avg. Volume,"38,457,446"
+1952,ICE,Previous Close,106.45
+1953,ICE,Open,106.39
+1954,ICE,Bid,106.50 x 800
+1955,ICE,Ask,0.00 x 800
+1956,ICE,Day's Range,106.03 - 107.11
+1957,ICE,52 Week Range,90.05 - 139.79
+1958,ICE,Volume,"2,465,161"
+1959,ICE,Avg. Volume,"2,760,577"
+1960,IP,Previous Close,42.78
+1961,IP,Open,42.61
+1962,IP,Bid,42.59 x 900
+1963,IP,Ask,0.00 x 800
+1964,IP,Day's Range,42.36 - 42.87
+1965,IP,52 Week Range,40.21 - 57.19
+1966,IP,Volume,"1,770,693"
+1967,IP,Avg. Volume,"2,908,441"
+1968,IPG,Previous Close,30.17
+1969,IPG,Open,29.62
+1970,IPG,Bid,29.01 x 1100
+1971,IPG,Ask,29.02 x 900
+1972,IPG,Day's Range,28.91 - 29.62
+1973,IPG,52 Week Range,26.36 - 39.98
+1974,IPG,Volume,"863,963"
+1975,IPG,Avg. Volume,"3,414,061"
+1976,IFF,Previous Close,115.55
+1977,IFF,Open,116.36
+1978,IFF,Bid,0.00 x 800
+1979,IFF,Ask,0.00 x 800
+1980,IFF,Day's Range,115.65 - 118.38
+1981,IFF,52 Week Range,105.38 - 155.00
+1982,IFF,Volume,"914,620"
+1983,IFF,Avg. Volume,"1,109,419"
+1984,INTU,Previous Close,449.56
+1985,INTU,Open,479.65
+1986,INTU,Bid,436.71 x 800
+1987,INTU,Ask,500.00 x 1300
+1988,INTU,Day's Range,465.33 - 487.80
+1989,INTU,52 Week Range,339.36 - 716.86
+1990,INTU,Volume,"3,587,397"
+1991,INTU,Avg. Volume,"1,662,588"
+1992,ISRG,Previous Close,216.81
+1993,ISRG,Open,218.19
+1994,ISRG,Bid,0.00 x 800
+1995,ISRG,Ask,0.00 x 800
+1996,ISRG,Day's Range,217.94 - 222.60
+1997,ISRG,52 Week Range,186.83 - 369.69
+1998,ISRG,Volume,"1,798,934"
+1999,ISRG,Avg. Volume,"2,020,924"
+2000,IVZ,Previous Close,17.65
+2001,IVZ,Open,17.60
+2002,IVZ,Bid,0.00 x 1800
+2003,IVZ,Ask,0.00 x 3100
+2004,IVZ,Day's Range,17.52 - 17.83
+2005,IVZ,52 Week Range,15.20 - 27.03
+2006,IVZ,Volume,"2,033,470"
+2007,IVZ,Avg. Volume,"3,874,787"
+2008,IQV,Previous Close,239.02
+2009,IQV,Open,234.92
+2010,IQV,Bid,231.67 x 800
+2011,IQV,Ask,231.76 x 1000
+2012,IQV,Day's Range,231.16 - 236.86
+2013,IQV,52 Week Range,194.67 - 285.61
+2014,IQV,Volume,"689,909"
+2015,IQV,Avg. Volume,"1,018,833"
+2016,IRM,Previous Close,53.23
+2017,IRM,Open,53.57
+2018,IRM,Bid,0.00 x 800
+2019,IRM,Ask,0.00 x 800
+2020,IRM,Day's Range,53.57 - 54.78
+2021,IRM,52 Week Range,41.67 - 58.61
+2022,IRM,Volume,"1,210,458"
+2023,IRM,Avg. Volume,"1,630,643"
+2024,JBHT,Previous Close,187.61
+2025,JBHT,Open,186.74
+2026,JBHT,Bid,188.06 x 800
+2027,JBHT,Ask,188.31 x 800
+2028,JBHT,Day's Range,186.74 - 190.04
+2029,JBHT,52 Week Range,153.92 - 218.18
+2030,JBHT,Volume,"147,910"
+2031,JBHT,Avg. Volume,"688,474"
+2032,JKHY,Previous Close,204.27
+2033,JKHY,Open,203.22
+2034,JKHY,Bid,202.92 x 900
+2035,JKHY,Ask,203.00 x 800
+2036,JKHY,Day's Range,202.05 - 204.13
+2037,JKHY,52 Week Range,147.50 - 212.62
+2038,JKHY,Volume,"380,480"
+2039,JKHY,Avg. Volume,"477,254"
+2040,J,Previous Close,127.50
+2041,J,Open,128.44
+2042,J,Bid,125.74 x 1000
+2043,J,Ask,125.83 x 800
+2044,J,Day's Range,125.20 - 129.19
+2045,J,52 Week Range,114.11 - 150.32
+2046,J,Volume,"532,115"
+2047,J,Avg. Volume,"551,993"
+2048,JNJ,Previous Close,166.13
+2049,JNJ,Open,166.56
+2050,JNJ,Bid,0.00 x 1100
+2051,JNJ,Ask,166.80 x 800
+2052,JNJ,Day's Range,165.07 - 166.59
+2053,JNJ,52 Week Range,155.72 - 186.69
+2054,JNJ,Volume,"5,325,837"
+2055,JNJ,Avg. Volume,"6,903,311"
+2056,JCI,Previous Close,55.22
+2057,JCI,Open,55.13
+2058,JCI,Bid,55.64 x 900
+2059,JCI,Ask,56.70 x 1400
+2060,JCI,Day's Range,54.91 - 55.68
+2061,JCI,52 Week Range,45.52 - 81.77
+2062,JCI,Volume,"2,062,037"
+2063,JCI,Avg. Volume,"4,121,217"
+2064,JPM,Previous Close,115.52
+2065,JPM,Open,115.29
+2066,JPM,Bid,116.36 x 800
+2067,JPM,Ask,0.00 x 800
+2068,JPM,Day's Range,114.45 - 116.41
+2069,JPM,52 Week Range,106.06 - 172.96
+2070,JPM,Volume,"8,336,870"
+2071,JPM,Avg. Volume,"12,238,591"
+2072,JNPR,Previous Close,29.02
+2073,JNPR,Open,28.99
+2074,JNPR,Bid,0.00 x 1000
+2075,JNPR,Ask,33.00 x 900
+2076,JNPR,Day's Range,28.79 - 29.22
+2077,JNPR,52 Week Range,26.20 - 38.14
+2078,JNPR,Volume,"1,505,788"
+2079,JNPR,Avg. Volume,"3,368,032"
+2080,K,Previous Close,76.19
+2081,K,Open,76.30
+2082,K,Bid,75.32 x 800
+2083,K,Ask,76.92 x 800
+2084,K,Day's Range,75.88 - 76.47
+2085,K,52 Week Range,59.54 - 76.99
+2086,K,Volume,"1,570,579"
+2087,K,Avg. Volume,"2,618,693"
+2088,KDP,Previous Close,39.49
+2089,KDP,Open,39.57
+2090,KDP,Bid,36.75 x 1800
+2091,KDP,Ask,40.23 x 3200
+2092,KDP,Day's Range,39.33 - 39.79
+2093,KDP,52 Week Range,32.44 - 41.31
+2094,KDP,Volume,"4,097,768"
+2095,KDP,Avg. Volume,"10,908,977"
+2096,KEY,Previous Close,18.77
+2097,KEY,Open,18.78
+2098,KEY,Bid,18.10 x 900
+2099,KEY,Ask,0.00 x 3200
+2100,KEY,Day's Range,18.56 - 18.81
+2101,KEY,52 Week Range,16.41 - 27.17
+2102,KEY,Volume,"5,905,813"
+2103,KEY,Avg. Volume,"9,749,856"
+2104,KEYS,Previous Close,170.23
+2105,KEYS,Open,170.51
+2106,KEYS,Bid,165.01 x 1000
+2107,KEYS,Ask,180.00 x 900
+2108,KEYS,Day's Range,170.04 - 172.20
+2109,KEYS,52 Week Range,127.93 - 209.08
+2110,KEYS,Volume,"553,260"
+2111,KEYS,Avg. Volume,"847,829"
+2112,KMB,Previous Close,134.24
+2113,KMB,Open,134.15
+2114,KMB,Bid,0.00 x 1000
+2115,KMB,Ask,135.66 x 1100
+2116,KMB,Day's Range,133.36 - 134.49
+2117,KMB,52 Week Range,117.32 - 145.79
+2118,KMB,Volume,"928,150"
+2119,KMB,Avg. Volume,"1,438,714"
+2120,KIM,Previous Close,22.00
+2121,KIM,Open,22.13
+2122,KIM,Bid,22.04 x 3000
+2123,KIM,Ask,22.05 x 900
+2124,KIM,Day's Range,21.87 - 22.16
+2125,KIM,52 Week Range,18.52 - 26.57
+2126,KIM,Volume,"1,888,981"
+2127,KIM,Avg. Volume,"4,155,054"
+2128,KMI,Previous Close,18.89
+2129,KMI,Open,18.90
+2130,KMI,Bid,18.95 x 21500
+2131,KMI,Ask,19.58 x 2200
+2132,KMI,Day's Range,18.84 - 19.23
+2133,KMI,52 Week Range,15.01 - 20.20
+2134,KMI,Volume,"13,682,189"
+2135,KMI,Avg. Volume,"15,400,695"
+2136,KLAC,Previous Close,362.45
+2137,KLAC,Open,360.26
+2138,KLAC,Bid,362.40 x 800
+2139,KLAC,Ask,0.00 x 1100
+2140,KLAC,Day's Range,357.68 - 365.45
+2141,KLAC,52 Week Range,282.83 - 457.12
+2142,KLAC,Volume,"938,639"
+2143,KLAC,Avg. Volume,"1,396,674"
+2144,KHC,Previous Close,38.72
+2145,KHC,Open,38.67
+2146,KHC,Bid,0.00 x 3200
+2147,KHC,Ask,0.00 x 900
+2148,KHC,Day's Range,38.54 - 38.96
+2149,KHC,52 Week Range,32.78 - 44.87
+2150,KHC,Volume,"5,601,765"
+2151,KHC,Avg. Volume,"8,486,280"
+2152,KR,Previous Close,49.60
+2153,KR,Open,49.61
+2154,KR,Bid,0.00 x 900
+2155,KR,Ask,50.47 x 1400
+2156,KR,Day's Range,49.24 - 49.78
+2157,KR,52 Week Range,38.22 - 62.78
+2158,KR,Volume,"4,201,867"
+2159,KR,Avg. Volume,"5,606,456"
+2160,LHX,Previous Close,232.14
+2161,LHX,Open,232.75
+2162,LHX,Bid,0.00 x 1000
+2163,LHX,Ask,0.00 x 1000
+2164,LHX,Day's Range,232.01 - 234.68
+2165,LHX,52 Week Range,200.71 - 279.71
+2166,LHX,Volume,"810,996"
+2167,LHX,Avg. Volume,"926,062"
+2168,LH,Previous Close,238.85
+2169,LH,Open,239.09
+2170,LH,Bid,0.00 x 800
+2171,LH,Ask,0.00 x 800
+2172,LH,Day's Range,231.38 - 239.09
+2173,LH,52 Week Range,212.40 - 317.17
+2174,LH,Volume,"978,062"
+2175,LH,Avg. Volume,"720,340"
+2176,LRCX,Previous Close,463.97
+2177,LRCX,Open,463.92
+2178,LRCX,Bid,423.07 x 800
+2179,LRCX,Ask,0.00 x 1100
+2180,LRCX,Day's Range,457.04 - 465.11
+2181,LRCX,52 Week Range,375.87 - 731.85
+2182,LRCX,Volume,"685,076"
+2183,LRCX,Avg. Volume,"1,399,816"
+2184,LW,Previous Close,81.26
+2185,LW,Open,81.25
+2186,LW,Bid,74.55 x 1100
+2187,LW,Ask,83.03 x 900
+2188,LW,Day's Range,81.13 - 82.00
+2189,LW,52 Week Range,49.71 - 83.29
+2190,LW,Volume,"631,645"
+2191,LW,Avg. Volume,"1,286,959"
+2192,LVS,Previous Close,36.88
+2193,LVS,Open,36.87
+2194,LVS,Bid,37.90 x 1000
+2195,LVS,Ask,0.00 x 800
+2196,LVS,Day's Range,36.43 - 38.31
+2197,LVS,52 Week Range,28.88 - 48.27
+2198,LVS,Volume,"3,761,265"
+2199,LVS,Avg. Volume,"6,366,914"
+2200,LDOS,Previous Close,100.25
+2201,LDOS,Open,100.48
+2202,LDOS,Bid,0.00 x 900
+2203,LDOS,Ask,0.00 x 800
+2204,LDOS,Day's Range,99.36 - 100.60
+2205,LDOS,52 Week Range,81.07 - 111.12
+2206,LDOS,Volume,"452,059"
+2207,LDOS,Avg. Volume,"701,141"
+2208,LEN,Previous Close,82.11
+2209,LEN,Open,81.51
+2210,LEN,Bid,0.00 x 1000
+2211,LEN,Ask,0.00 x 1000
+2212,LEN,Day's Range,81.32 - 84.99
+2213,LEN,52 Week Range,62.54 - 117.54
+2214,LEN,Volume,"1,998,202"
+2215,LEN,Avg. Volume,"2,761,764"
+2216,LNC,Previous Close,48.16
+2217,LNC,Open,48.00
+2218,LNC,Bid,0.00 x 800
+2219,LNC,Ask,49.00 x 800
+2220,LNC,Day's Range,47.78 - 48.55
+2221,LNC,52 Week Range,44.89 - 77.57
+2222,LNC,Volume,"1,043,507"
+2223,LNC,Avg. Volume,"1,642,403"
+2224,LIN,Previous Close,294.18
+2225,LIN,Open,294.21
+2226,LIN,Bid,0.00 x 1100
+2227,LIN,Ask,0.00 x 800
+2228,LIN,Day's Range,292.00 - 294.97
+2229,LIN,52 Week Range,265.12 - 352.18
+2230,LIN,Volume,"1,268,705"
+2231,LIN,Avg. Volume,"2,386,709"
+2232,LYV,Previous Close,91.38
+2233,LYV,Open,91.57
+2234,LYV,Bid,92.39 x 800
+2235,LYV,Ask,92.45 x 900
+2236,LYV,Day's Range,91.86 - 93.00
+2237,LYV,52 Week Range,79.50 - 127.75
+2238,LYV,Volume,"282,328"
+2239,LYV,Avg. Volume,"1,543,509"
+2240,LKQ,Previous Close,54.41
+2241,LKQ,Open,54.45
+2242,LKQ,Bid,54.76 x 800
+2243,LKQ,Ask,54.81 x 800
+2244,LKQ,Day's Range,54.44 - 55.04
+2245,LKQ,52 Week Range,42.36 - 60.43
+2246,LKQ,Volume,"203,422"
+2247,LKQ,Avg. Volume,"1,531,667"
+2248,LMT,Previous Close,433.12
+2249,LMT,Open,433.99
+2250,LMT,Bid,0.00 x 900
+2251,LMT,Ask,0.00 x 1300
+2252,LMT,Day's Range,430.94 - 435.45
+2253,LMT,52 Week Range,324.23 - 479.99
+2254,LMT,Volume,"661,997"
+2255,LMT,Avg. Volume,"1,241,903"
+2256,L,Previous Close,55.12
+2257,L,Open,55.47
+2258,L,Bid,55.39 x 2200
+2259,L,Ask,55.41 x 800
+2260,L,Day's Range,55.36 - 56.13
+2261,L,52 Week Range,51.35 - 68.20
+2262,L,Volume,"735,622"
+2263,L,Avg. Volume,"979,724"
+2264,LOW,Previous Close,207.47
+2265,LOW,Open,206.81
+2266,LOW,Bid,0.00 x 800
+2267,LOW,Ask,0.00 x 1100
+2268,LOW,Day's Range,205.78 - 210.54
+2269,LOW,52 Week Range,170.12 - 263.31
+2270,LOW,Volume,"2,562,475"
+2271,LOW,Avg. Volume,"3,622,083"
+2272,LUMN,Previous Close,10.88
+2273,LUMN,Open,10.91
+2274,LUMN,Bid,0.00 x 4000
+2275,LUMN,Ask,0.00 x 4000
+2276,LUMN,Day's Range,10.77 - 10.97
+2277,LUMN,52 Week Range,9.31 - 14.50
+2278,LUMN,Volume,"9,968,453"
+2279,LUMN,Avg. Volume,"10,124,372"
+2280,LYB,Previous Close,90.21
+2281,LYB,Open,89.70
+2282,LYB,Bid,0.00 x 800
+2283,LYB,Ask,0.00 x 800
+2284,LYB,Day's Range,88.01 - 89.94
+2285,LYB,52 Week Range,82.14 - 117.22
+2286,LYB,Volume,"1,656,304"
+2287,LYB,Avg. Volume,"2,351,167"
+2288,MTB,Previous Close,184.30
+2289,MTB,Open,183.78
+2290,MTB,Bid,0.00 x 1100
+2291,MTB,Ask,0.00 x 1300
+2292,MTB,Day's Range,183.07 - 185.26
+2293,MTB,52 Week Range,131.42 - 193.42
+2294,MTB,Volume,"512,211"
+2295,MTB,Avg. Volume,"1,029,935"
+2296,MRO,Previous Close,25.71
+2297,MRO,Open,25.83
+2298,MRO,Bid,25.41 x 3100
+2299,MRO,Ask,26.51 x 1000
+2300,MRO,Day's Range,25.67 - 26.37
+2301,MRO,52 Week Range,11.02 - 33.24
+2302,MRO,Volume,"13,911,138"
+2303,MRO,Avg. Volume,"18,782,432"
+2304,MPC,Previous Close,103.49
+2305,MPC,Open,103.88
+2306,MPC,Bid,93.57 x 1100
+2307,MPC,Ask,0.00 x 800
+2308,MPC,Day's Range,103.36 - 104.94
+2309,MPC,52 Week Range,56.08 - 114.35
+2310,MPC,Volume,"3,451,782"
+2311,MPC,Avg. Volume,"6,289,201"
+2312,MKTX,"
+","
+
+Will be right back...
+Thank you for your patience.
+Our engineers are working quickly to resolve the issue.
+"
+2313,MAR,Previous Close,158.64
+2314,MAR,Open,157.80
+2315,MAR,Bid,0.00 x 900
+2316,MAR,Ask,163.66 x 800
+2317,MAR,Day's Range,157.80 - 160.52
+2318,MAR,52 Week Range,131.01 - 195.90
+2319,MAR,Volume,"1,892,354"
+2320,MAR,Avg. Volume,"2,116,012"
+2321,MMC,Previous Close,166.89
+2322,MMC,Open,167.04
+2323,MMC,Bid,0.00 x 800
+2324,MMC,Ask,0.00 x 800
+2325,MMC,Day's Range,166.59 - 168.49
+2326,MMC,52 Week Range,142.80 - 183.14
+2327,MMC,Volume,"1,003,121"
+2328,MMC,Avg. Volume,"1,840,595"
+2329,MLM,Previous Close,365.15
+2330,MLM,Open,359.24
+2331,MLM,Bid,356.14 x 900
+2332,MLM,Ask,368.02 x 900
+2333,MLM,Day's Range,356.01 - 363.23
+2334,MLM,52 Week Range,284.99 - 446.46
+2335,MLM,Volume,"330,790"
+2336,MLM,Avg. Volume,"442,222"
+2337,MAS,Previous Close,55.38
+2338,MAS,Open,54.54
+2339,MAS,Bid,53.01 x 800
+2340,MAS,Ask,53.03 x 900
+2341,MAS,Day's Range,52.94 - 54.58
+2342,MAS,52 Week Range,46.27 - 71.06
+2343,MAS,Volume,"844,450"
+2344,MAS,Avg. Volume,"2,031,469"
+2345,MA,Previous Close,340.89
+2346,MA,Open,340.18
+2347,MA,Bid,338.00 x 1800
+2348,MA,Ask,349.00 x 1800
+2349,MA,Day's Range,338.35 - 342.29
+2350,MA,52 Week Range,303.65 - 399.92
+2351,MA,Volume,"2,160,155"
+2352,MA,Avg. Volume,"2,725,727"
+2353,MTCH,Previous Close,57.75
+2354,MTCH,Open,57.99
+2355,MTCH,Bid,0.00 x 800
+2356,MTCH,Ask,0.00 x 1300
+2357,MTCH,Day's Range,57.64 - 59.31
+2358,MTCH,52 Week Range,57.55 - 182.00
+2359,MTCH,Volume,"2,278,354"
+2360,MTCH,Avg. Volume,"3,051,032"
+2361,MKC,Previous Close,89.03
+2362,MKC,Open,89.31
+2363,MKC,Bid,0.00 x 800
+2364,MKC,Ask,0.00 x 900
+2365,MKC,Day's Range,88.43 - 89.36
+2366,MKC,52 Week Range,77.85 - 107.35
+2367,MKC,Volume,"820,217"
+2368,MKC,Avg. Volume,"1,176,287"
+2369,MCD,Previous Close,260.54
+2370,MCD,Open,260.71
+2371,MCD,Bid,0.00 x 800
+2372,MCD,Ask,0.00 x 800
+2373,MCD,Day's Range,259.86 - 262.00
+2374,MCD,52 Week Range,217.68 - 271.15
+2375,MCD,Volume,"1,654,838"
+2376,MCD,Avg. Volume,"2,496,491"
+2377,MCK,Previous Close,364.02
+2378,MCK,Open,364.36
+2379,MCK,Bid,0.00 x 800
+2380,MCK,Ask,0.00 x 1000
+2381,MCK,Day's Range,362.05 - 365.41
+2382,MCK,52 Week Range,193.89 - 375.23
+2383,MCK,Volume,"762,398"
+2384,MCK,Avg. Volume,"1,050,687"
+2385,MDT,Previous Close,90.22
+2386,MDT,Open,89.47
+2387,MDT,Bid,89.25 x 800
+2388,MDT,Ask,0.00 x 800
+2389,MDT,Day's Range,88.42 - 89.96
+2390,MDT,52 Week Range,86.70 - 135.89
+2391,MDT,Volume,"6,662,761"
+2392,MDT,Avg. Volume,"5,780,670"
+2393,MRK,Previous Close,90.20
+2394,MRK,Open,90.20
+2395,MRK,Bid,89.72 x 800
+2396,MRK,Ask,91.08 x 800
+2397,MRK,Day's Range,89.54 - 90.32
+2398,MRK,52 Week Range,70.89 - 95.72
+2399,MRK,Volume,"5,379,089"
+2400,MRK,Avg. Volume,"10,301,420"
+2401,META,Previous Close,161.11
+2402,META,Open,160.60
+2403,META,Bid,165.09 x 1000
+2404,META,Ask,0.00 x 3000
+2405,META,Day's Range,159.77 - 165.46
+2406,META,52 Week Range,154.25 - 384.33
+2407,META,Volume,"20,891,481"
+2408,META,Avg. Volume,"28,642,379"
+2409,MET,Previous Close,65.67
+2410,MET,Open,65.49
+2411,MET,Bid,66.10 x 800
+2412,MET,Ask,0.00 x 800
+2413,MET,Day's Range,65.24 - 66.25
+2414,MET,52 Week Range,57.05 - 73.18
+2415,MET,Volume,"2,410,857"
+2416,MET,Avg. Volume,"4,294,769"
+2417,MTD,Previous Close,"1,333.80"
+2418,MTD,Open,"1,314.60"
+2419,MTD,Bid,"1,312.22 x 800"
+2420,MTD,Ask,"1,316.23 x 800"
+2421,MTD,Day's Range,"1,312.22 - 1,327.76"
+2422,MTD,52 Week Range,"1,082.78 - 1,714.75"
+2423,MTD,Volume,"15,221"
+2424,MTD,Avg. Volume,"123,956"
+2425,MGM,Previous Close,34.30
+2426,MGM,Open,34.31
+2427,MGM,Bid,0.00 x 1100
+2428,MGM,Ask,0.00 x 2200
+2429,MGM,Day's Range,34.06 - 35.15
+2430,MGM,52 Week Range,26.41 - 51.17
+2431,MGM,Volume,"3,091,996"
+2432,MGM,Avg. Volume,"5,191,225"
+2433,MCHP,Previous Close,69.12
+2434,MCHP,Open,68.73
+2435,MCHP,Bid,67.40 x 800
+2436,MCHP,Ask,0.00 x 900
+2437,MCHP,Day's Range,67.76 - 69.03
+2438,MCHP,52 Week Range,54.33 - 90.00
+2439,MCHP,Volume,"4,729,916"
+2440,MCHP,Avg. Volume,"4,649,579"
+2441,MU,Previous Close,57.86
+2442,MU,Open,57.88
+2443,MU,Bid,0.00 x 1400
+2444,MU,Ask,58.88 x 800
+2445,MU,Day's Range,57.36 - 58.56
+2446,MU,52 Week Range,51.40 - 98.45
+2447,MU,Volume,"9,961,297"
+2448,MU,Avg. Volume,"17,136,101"
+2449,MSFT,Previous Close,276.44
+2450,MSFT,Open,275.41
+2451,MSFT,Bid,278.11 x 1200
+2452,MSFT,Ask,0.00 x 1100
+2453,MSFT,Day's Range,275.18 - 277.21
+2454,MSFT,52 Week Range,241.51 - 349.67
+2455,MSFT,Volume,"18,098,958"
+2456,MSFT,Avg. Volume,"25,984,817"
+2457,MAA,Previous Close,175.70
+2458,MAA,Open,175.38
+2459,MAA,Bid,0.00 x 800
+2460,MAA,Ask,0.00 x 800
+2461,MAA,Day's Range,175.33 - 177.87
+2462,MAA,52 Week Range,158.85 - 231.63
+2463,MAA,Volume,"640,001"
+2464,MAA,Avg. Volume,"596,588"
+2465,MRNA,Previous Close,143.78
+2466,MRNA,Open,142.66
+2467,MRNA,Bid,0.00 x 1300
+2468,MRNA,Ask,0.00 x 800
+2469,MRNA,Day's Range,140.65 - 144.22
+2470,MRNA,52 Week Range,115.61 - 464.85
+2471,MRNA,Volume,"3,486,365"
+2472,MRNA,Avg. Volume,"5,098,543"
+2473,MHK,Previous Close,112.97
+2474,MHK,Open,112.90
+2475,MHK,Bid,110.41 x 1200
+2476,MHK,Ask,115.94 x 900
+2477,MHK,Day's Range,111.36 - 114.17
+2478,MHK,52 Week Range,111.36 - 204.55
+2479,MHK,Volume,"358,127"
+2480,MHK,Avg. Volume,"556,862"
+2481,MOH,Previous Close,327.04
+2482,MOH,Open,329.01
+2483,MOH,Bid,328.84 x 800
+2484,MOH,Ask,526.52 x 800
+2485,MOH,Day's Range,324.63 - 330.51
+2486,MOH,52 Week Range,244.75 - 350.19
+2487,MOH,Volume,"252,442"
+2488,MOH,Avg. Volume,"423,412"
+2489,TAP,Previous Close,55.88
+2490,TAP,Open,55.97
+2491,TAP,Bid,0.00 x 800
+2492,TAP,Ask,0.00 x 800
+2493,TAP,Day's Range,55.62 - 56.72
+2494,TAP,52 Week Range,42.46 - 60.12
+2495,TAP,Volume,"869,442"
+2496,TAP,Avg. Volume,"1,535,598"
+2497,MDLZ,Previous Close,63.72
+2498,MDLZ,Open,63.78
+2499,MDLZ,Bid,63.60 x 1100
+2500,MDLZ,Ask,0.00 x 1000
+2501,MDLZ,Day's Range,63.59 - 64.68
+2502,MDLZ,52 Week Range,57.63 - 69.47
+2503,MDLZ,Volume,"5,911,147"
+2504,MDLZ,Avg. Volume,"6,479,188"
+2505,MPWR,Previous Close,497.51
+2506,MPWR,Open,500.54
+2507,MPWR,Bid,0.00 x 800
+2508,MPWR,Ask,0.00 x 1000
+2509,MPWR,Day's Range,492.37 - 500.54
+2510,MPWR,52 Week Range,348.02 - 580.00
+2511,MPWR,Volume,"262,222"
+2512,MPWR,Avg. Volume,"468,227"
+2513,MNST,Previous Close,90.16
+2514,MNST,Open,90.00
+2515,MNST,Bid,80.50 x 900
+2516,MNST,Ask,0.00 x 800
+2517,MNST,Day's Range,89.76 - 90.66
+2518,MNST,52 Week Range,71.78 - 99.81
+2519,MNST,Volume,"1,352,681"
+2520,MNST,Avg. Volume,"2,795,259"
+2521,MCO,Previous Close,298.60
+2522,MCO,Open,298.71
+2523,MCO,Bid,0.00 x 1000
+2524,MCO,Ask,0.00 x 900
+2525,MCO,Day's Range,298.49 - 301.65
+2526,MCO,52 Week Range,251.01 - 407.94
+2527,MCO,Volume,"457,436"
+2528,MCO,Avg. Volume,"830,574"
+2529,MS,Previous Close,88.30
+2530,MS,Open,87.99
+2531,MS,Bid,89.25 x 1200
+2532,MS,Ask,90.40 x 900
+2533,MS,Day's Range,87.81 - 89.04
+2534,MS,52 Week Range,72.05 - 109.73
+2535,MS,Volume,"4,932,595"
+2536,MS,Avg. Volume,"7,633,022"
+2537,MOS,Previous Close,57.25
+2538,MOS,Open,57.80
+2539,MOS,Bid,0.00 x 900
+2540,MOS,Ask,61.49 x 800
+2541,MOS,Day's Range,57.65 - 60.80
+2542,MOS,52 Week Range,30.58 - 79.28
+2543,MOS,Volume,"7,871,239"
+2544,MOS,Avg. Volume,"6,250,646"
+2545,MSI,Previous Close,246.17
+2546,MSI,Open,247.00
+2547,MSI,Bid,226.43 x 900
+2548,MSI,Ask,0.00 x 800
+2549,MSI,Day's Range,246.40 - 249.97
+2550,MSI,52 Week Range,195.18 - 273.65
+2551,MSI,Volume,"645,367"
+2552,MSI,Avg. Volume,"708,603"
+2553,MSCI,Previous Close,467.50
+2554,MSCI,Open,468.87
+2555,MSCI,Bid,461.25 x 800
+2556,MSCI,Ask,501.94 x 800
+2557,MSCI,Day's Range,466.64 - 472.56
+2558,MSCI,52 Week Range,376.41 - 679.85
+2559,MSCI,Volume,"188,747"
+2560,MSCI,Avg. Volume,"436,220"
+2561,NDAQ,Previous Close,184.32
+2562,NDAQ,Open,184.45
+2563,NDAQ,Bid,163.00 x 800
+2564,NDAQ,Ask,196.98 x 900
+2565,NDAQ,Day's Range,184.32 - 186.65
+2566,NDAQ,52 Week Range,140.31 - 214.96
+2567,NDAQ,Volume,"692,502"
+2568,NDAQ,Avg. Volume,"870,582"
+2569,NTAP,Previous Close,73.28
+2570,NTAP,Open,73.26
+2571,NTAP,Bid,0.00 x 1100
+2572,NTAP,Ask,0.00 x 800
+2573,NTAP,Day's Range,72.64 - 73.98
+2574,NTAP,52 Week Range,61.26 - 96.82
+2575,NTAP,Volume,"1,561,222"
+2576,NTAP,Avg. Volume,"1,533,712"
+2577,NFLX,Previous Close,224.55
+2578,NFLX,Open,225.66
+2579,NFLX,Bid,0.00 x 1000
+2580,NFLX,Ask,0.00 x 1100
+2581,NFLX,Day's Range,223.94 - 234.08
+2582,NFLX,52 Week Range,162.71 - 700.99
+2583,NFLX,Volume,"5,426,316"
+2584,NFLX,Avg. Volume,"9,875,895"
+2585,NWL,Previous Close,20.77
+2586,NWL,Open,20.70
+2587,NWL,Bid,0.00 x 1300
+2588,NWL,Ask,0.00 x 900
+2589,NWL,Day's Range,19.91 - 20.70
+2590,NWL,52 Week Range,17.40 - 26.45
+2591,NWL,Volume,"2,404,683"
+2592,NWL,Avg. Volume,"3,082,248"
+2593,NEM,Previous Close,44.55
+2594,NEM,Open,44.25
+2595,NEM,Bid,0.00 x 1100
+2596,NEM,Ask,45.16 x 1800
+2597,NEM,Day's Range,43.81 - 44.90
+2598,NEM,52 Week Range,42.88 - 86.37
+2599,NEM,Volume,"6,886,726"
+2600,NEM,Avg. Volume,"8,390,732"
+2601,NWSA,Previous Close,17.90
+2602,NWSA,Open,17.62
+2603,NWSA,Bid,15.02 x 1400
+2604,NWSA,Ask,20.43 x 900
+2605,NWSA,Day's Range,17.43 - 17.79
+2606,NWSA,52 Week Range,14.95 - 25.87
+2607,NWSA,Volume,"1,604,507"
+2608,NWSA,Avg. Volume,"2,888,930"
+2609,NWS,"
+","
+
+Will be right back...
+Thank you for your patience.
+Our engineers are working quickly to resolve the issue.
+"
+2610,NEE,Previous Close,87.98
+2611,NEE,Open,88.15
+2612,NEE,Bid,87.75 x 800
+2613,NEE,Ask,89.64 x 800
+2614,NEE,Day's Range,87.96 - 88.78
+2615,NEE,52 Week Range,67.22 - 93.73
+2616,NEE,Volume,"4,786,523"
+2617,NEE,Avg. Volume,"8,383,459"
+2618,NLSN,Previous Close,27.65
+2619,NLSN,Open,27.77
+2620,NLSN,Bid,27.79 x 4000
+2621,NLSN,Ask,27.81 x 1300
+2622,NLSN,Day's Range,27.75 - 27.82
+2623,NLSN,52 Week Range,16.02 - 27.82
+2624,NLSN,Volume,"5,986,735"
+2625,NLSN,Avg. Volume,"3,458,435"
+2626,NKE,Previous Close,110.68
+2627,NKE,Open,110.68
+2628,NKE,Bid,0.00 x 800
+2629,NKE,Ask,0.00 x 800
+2630,NKE,Day's Range,110.02 - 112.43
+2631,NKE,52 Week Range,99.53 - 179.10
+2632,NKE,Volume,"4,235,911"
+2633,NKE,Avg. Volume,"6,967,072"
+2634,NI,Previous Close,30.77
+2635,NI,Open,30.71
+2636,NI,Bid,30.32 x 2200
+2637,NI,Ask,30.97 x 1100
+2638,NI,Day's Range,30.61 - 31.03
+2639,NI,52 Week Range,23.65 - 32.59
+2640,NI,Volume,"1,919,160"
+2641,NI,Avg. Volume,"3,927,625"
+2642,NDSN,Previous Close,239.17
+2643,NDSN,Open,239.17
+2644,NDSN,Bid,0.00 x 900
+2645,NDSN,Ask,255.73 x 800
+2646,NDSN,Day's Range,237.93 - 241.05
+2647,NDSN,52 Week Range,194.89 - 272.28
+2648,NDSN,Volume,"337,119"
+2649,NDSN,Avg. Volume,"219,720"
+2650,NSC,Previous Close,258.30
+2651,NSC,Open,258.25
+2652,NSC,Bid,0.00 x 900
+2653,NSC,Ask,0.00 x 1000
+2654,NSC,Day's Range,257.87 - 261.05
+2655,NSC,52 Week Range,217.00 - 299.20
+2656,NSC,Volume,"1,133,659"
+2657,NSC,Avg. Volume,"1,166,254"
+2658,NTRS,Previous Close,100.56
+2659,NTRS,Open,99.33
+2660,NTRS,Bid,98.18 x 1000
+2661,NTRS,Ask,98.23 x 800
+2662,NTRS,Day's Range,97.99 - 99.33
+2663,NTRS,52 Week Range,89.68 - 135.15
+2664,NTRS,Volume,"613,550"
+2665,NTRS,Avg. Volume,"908,679"
+2666,NOC,Previous Close,482.88
+2667,NOC,Open,485.20
+2668,NOC,Bid,439.92 x 800
+2669,NOC,Ask,538.76 x 800
+2670,NOC,Day's Range,484.58 - 490.30
+2671,NOC,52 Week Range,344.89 - 497.20
+2672,NOC,Volume,"561,114"
+2673,NOC,Avg. Volume,"779,803"
+2674,NLOK,Previous Close,23.54
+2675,NLOK,Open,23.42
+2676,NLOK,Bid,22.70 x 1300
+2677,NLOK,Ask,23.20 x 2200
+2678,NLOK,Day's Range,23.18 - 23.50
+2679,NLOK,52 Week Range,21.55 - 30.92
+2680,NLOK,Volume,"3,439,667"
+2681,NLOK,Avg. Volume,"6,546,993"
+2682,NCLH,Previous Close,12.85
+2683,NCLH,Open,12.93
+2684,NCLH,Bid,0.00 x 1200
+2685,NCLH,Ask,14.36 x 1100
+2686,NCLH,Day's Range,12.89 - 14.04
+2687,NCLH,52 Week Range,10.31 - 29.45
+2688,NCLH,Volume,"23,286,254"
+2689,NCLH,Avg. Volume,"21,287,488"
+2690,NRG,Previous Close,41.89
+2691,NRG,Open,41.82
+2692,NRG,Bid,36.23 x 900
+2693,NRG,Ask,0.00 x 900
+2694,NRG,Day's Range,41.46 - 42.01
+2695,NRG,52 Week Range,34.70 - 47.82
+2696,NRG,Volume,"1,169,389"
+2697,NRG,Avg. Volume,"3,312,988"
+2698,NUE,Previous Close,137.46
+2699,NUE,Open,135.90
+2700,NUE,Bid,130.00 x 800
+2701,NUE,Ask,0.00 x 900
+2702,NUE,Day's Range,135.30 - 139.08
+2703,NUE,52 Week Range,88.50 - 187.90
+2704,NUE,Volume,"1,083,787"
+2705,NUE,Avg. Volume,"2,201,864"
+2706,NVDA,Previous Close,171.81
+2707,NVDA,Open,170.12
+2708,NVDA,Bid,167.00 x 1000
+2709,NVDA,Ask,167.13 x 1200
+2710,NVDA,Day's Range,168.96 - 174.06
+2711,NVDA,52 Week Range,140.55 - 346.47
+2712,NVDA,Volume,"49,524,935"
+2713,NVDA,Avg. Volume,"52,324,867"
+2714,NVR,Previous Close,"4,200.91"
+2715,NVR,Open,"4,177.60"
+2716,NVR,Bid,0.00 x 1200
+2717,NVR,Ask,0.00 x 800
+2718,NVR,Day's Range,"4,177.60 - 4,330.00"
+2719,NVR,52 Week Range,"3,576.01 - 5,982.45"
+2720,NVR,Volume,"15,654"
+2721,NVR,Avg. Volume,"18,474"
+2722,NXPI,Previous Close,173.94
+2723,NXPI,Open,174.26
+2724,NXPI,Bid,170.76 x 1100
+2725,NXPI,Ask,197.93 x 1200
+2726,NXPI,Day's Range,170.36 - 174.26
+2727,NXPI,52 Week Range,140.33 - 239.91
+2728,NXPI,Volume,"1,237,991"
+2729,NXPI,Avg. Volume,"2,866,917"
+2730,ORLY,Previous Close,720.09
+2731,ORLY,Open,715.00
+2732,ORLY,Bid,616.57 x 900
+2733,ORLY,Ask,0.00 x 800
+2734,ORLY,Day's Range,709.37 - 717.76
+2735,ORLY,52 Week Range,562.90 - 750.88
+2736,ORLY,Volume,"524,407"
+2737,ORLY,Avg. Volume,"492,293"
+2738,OXY,Previous Close,73.79
+2739,OXY,Open,74.15
+2740,OXY,Bid,0.00 x 800
+2741,OXY,Ask,75.43 x 800
+2742,OXY,Day's Range,73.08 - 75.69
+2743,OXY,52 Week Range,23.91 - 75.69
+2744,OXY,Volume,"39,452,158"
+2745,OXY,Avg. Volume,"27,384,291"
+2746,ODFL,Previous Close,297.04
+2747,ODFL,Open,292.54
+2748,ODFL,Bid,290.95 x 1000
+2749,ODFL,Ask,291.37 x 1000
+2750,ODFL,Day's Range,289.94 - 294.96
+2751,ODFL,52 Week Range,231.31 - 373.58
+2752,ODFL,Volume,"692,716"
+2753,ODFL,Avg. Volume,"865,185"
+2754,OMC,Previous Close,69.76
+2755,OMC,Open,69.76
+2756,OMC,Bid,69.91 x 900
+2757,OMC,Ask,69.95 x 800
+2758,OMC,Day's Range,69.68 - 70.34
+2759,OMC,52 Week Range,61.31 - 91.61
+2760,OMC,Volume,"273,172"
+2761,OMC,Avg. Volume,"1,562,953"
+2762,ON,Previous Close,71.25
+2763,ON,Open,70.91
+2764,ON,Bid,0.00 x 1000
+2765,ON,Ask,0.00 x 900
+2766,ON,Day's Range,70.43 - 72.26
+2767,ON,52 Week Range,41.88 - 75.26
+2768,ON,Volume,"4,300,047"
+2769,ON,Avg. Volume,"9,685,204"
+2770,OKE,Previous Close,64.80
+2771,OKE,Open,64.91
+2772,OKE,Bid,64.61 x 800
+2773,OKE,Ask,70.84 x 900
+2774,OKE,Day's Range,64.66 - 66.28
+2775,OKE,52 Week Range,51.70 - 75.07
+2776,OKE,Volume,"2,376,871"
+2777,OKE,Avg. Volume,"2,728,375"
+2778,ORCL,Previous Close,76.41
+2779,ORCL,Open,76.47
+2780,ORCL,Bid,0.00 x 800
+2781,ORCL,Ask,77.40 x 800
+2782,ORCL,Day's Range,76.05 - 76.56
+2783,ORCL,52 Week Range,63.76 - 106.34
+2784,ORCL,Volume,"3,498,279"
+2785,ORCL,Avg. Volume,"7,531,809"
+2786,OGN,Previous Close,29.92
+2787,OGN,Open,29.88
+2788,OGN,Bid,0.00 x 900
+2789,OGN,Ask,0.00 x 800
+2790,OGN,Day's Range,29.59 - 30.47
+2791,OGN,52 Week Range,28.50 - 39.47
+2792,OGN,Volume,"1,155,391"
+2793,OGN,Avg. Volume,"1,490,430"
+2794,OTIS,Previous Close,80.41
+2795,OTIS,Open,80.03
+2796,OTIS,Bid,76.28 x 1000
+2797,OTIS,Ask,79.77 x 900
+2798,OTIS,Day's Range,78.99 - 80.20
+2799,OTIS,52 Week Range,66.97 - 92.84
+2800,OTIS,Volume,"1,212,521"
+2801,OTIS,Avg. Volume,"2,345,046"
+2802,PCAR,Previous Close,93.03
+2803,PCAR,Open,92.19
+2804,PCAR,Bid,89.13 x 900
+2805,PCAR,Ask,91.81 x 1400
+2806,PCAR,Day's Range,90.32 - 92.19
+2807,PCAR,52 Week Range,77.00 - 97.56
+2808,PCAR,Volume,"1,281,931"
+2809,PCAR,Avg. Volume,"1,861,711"
+2810,PKG,Previous Close,140.41
+2811,PKG,Open,140.59
+2812,PKG,Bid,141.02 x 900
+2813,PKG,Ask,141.12 x 1000
+2814,PKG,Day's Range,140.40 - 142.09
+2815,PKG,52 Week Range,124.78 - 168.50
+2816,PKG,Volume,"167,504"
+2817,PKG,Avg. Volume,"656,133"
+2818,PARA,Previous Close,24.50
+2819,PARA,Open,24.50
+2820,PARA,Bid,0.00 x 3100
+2821,PARA,Ask,0.00 x 1800
+2822,PARA,Day's Range,24.41 - 25.27
+2823,PARA,52 Week Range,23.15 - 42.17
+2824,PARA,Volume,"6,250,579"
+2825,PARA,Avg. Volume,"9,091,533"
+2826,PH,Previous Close,285.56
+2827,PH,Open,284.72
+2828,PH,Bid,0.00 x 800
+2829,PH,Ask,0.00 x 800
+2830,PH,Day's Range,283.07 - 288.27
+2831,PH,52 Week Range,230.44 - 340.00
+2832,PH,Volume,"468,527"
+2833,PH,Avg. Volume,"747,095"
+2834,PAYX,Previous Close,135.00
+2835,PAYX,Open,134.91
+2836,PAYX,Bid,133.16 x 800
+2837,PAYX,Ask,0.00 x 800
+2838,PAYX,Day's Range,134.66 - 135.92
+2839,PAYX,52 Week Range,106.55 - 141.92
+2840,PAYX,Volume,"1,139,366"
+2841,PAYX,Avg. Volume,"1,629,956"
+2842,PAYC,Previous Close,368.69
+2843,PAYC,Open,372.13
+2844,PAYC,Bid,342.12 x 900
+2845,PAYC,Ask,0.00 x 800
+2846,PAYC,Day's Range,371.02 - 378.23
+2847,PAYC,52 Week Range,255.82 - 558.97
+2848,PAYC,Volume,"219,696"
+2849,PAYC,Avg. Volume,"399,501"
+2850,PYPL,Previous Close,93.20
+2851,PYPL,Open,93.12
+2852,PYPL,Bid,0.00 x 800
+2853,PYPL,Ask,95.26 x 900
+2854,PYPL,Day's Range,93.02 - 95.77
+2855,PYPL,52 Week Range,67.58 - 296.70
+2856,PYPL,Volume,"8,957,716"
+2857,PYPL,Avg. Volume,"14,854,804"
+2858,PENN,Previous Close,33.11
+2859,PENN,Open,33.07
+2860,PENN,Bid,30.44 x 800
+2861,PENN,Ask,0.00 x 800
+2862,PENN,Day's Range,33.05 - 34.67
+2863,PENN,52 Week Range,26.46 - 86.40
+2864,PENN,Volume,"1,708,370"
+2865,PENN,Avg. Volume,"3,350,153"
+2866,PNR,Previous Close,47.81
+2867,PNR,Open,47.74
+2868,PNR,Bid,48.02 x 800
+2869,PNR,Ask,48.04 x 800
+2870,PNR,Day's Range,47.75 - 48.43
+2871,PNR,52 Week Range,43.60 - 80.10
+2872,PNR,Volume,"198,759"
+2873,PNR,Avg. Volume,"1,329,350"
+2874,PEP,Previous Close,178.37
+2875,PEP,Open,178.37
+2876,PEP,Bid,179.36 x 1300
+2877,PEP,Ask,180.96 x 900
+2878,PEP,Day's Range,178.20 - 179.49
+2879,PEP,52 Week Range,149.48 - 181.07
+2880,PEP,Volume,"3,340,557"
+2881,PEP,Avg. Volume,"4,477,188"
+2882,PKI,Previous Close,145.13
+2883,PKI,Open,143.09
+2884,PKI,Bid,141.75 x 800
+2885,PKI,Ask,150.67 x 1100
+2886,PKI,Day's Range,141.10 - 143.80
+2887,PKI,52 Week Range,130.65 - 203.16
+2888,PKI,Volume,"420,163"
+2889,PKI,Avg. Volume,"728,890"
+2890,PFE,Previous Close,48.01
+2891,PFE,Open,47.90
+2892,PFE,Bid,0.00 x 3200
+2893,PFE,Ask,0.00 x 3100
+2894,PFE,Day's Range,47.38 - 48.01
+2895,PFE,52 Week Range,40.94 - 61.71
+2896,PFE,Volume,"15,135,481"
+2897,PFE,Avg. Volume,"19,760,356"
+2898,PM,Previous Close,97.80
+2899,PM,Open,97.46
+2900,PM,Bid,0.00 x 800
+2901,PM,Ask,99.99 x 1000
+2902,PM,Day's Range,97.06 - 97.93
+2903,PM,52 Week Range,85.64 - 112.48
+2904,PM,Volume,"2,356,698"
+2905,PM,Avg. Volume,"4,832,682"
+2906,PSX,Previous Close,91.41
+2907,PSX,Open,91.41
+2908,PSX,Bid,92.53 x 800
+2909,PSX,Ask,0.00 x 1000
+2910,PSX,Day's Range,90.89 - 92.70
+2911,PSX,52 Week Range,63.19 - 111.28
+2912,PSX,Volume,"3,149,011"
+2913,PSX,Avg. Volume,"3,727,137"
+2914,PNW,Previous Close,77.96
+2915,PNW,Open,77.39
+2916,PNW,Bid,0.00 x 800
+2917,PNW,Ask,78.97 x 1400
+2918,PNW,Day's Range,76.43 - 77.57
+2919,PNW,52 Week Range,62.78 - 80.51
+2920,PNW,Volume,"699,338"
+2921,PNW,Avg. Volume,"811,259"
+2922,PXD,Previous Close,251.77
+2923,PXD,Open,252.86
+2924,PXD,Bid,248.02 x 800
+2925,PXD,Ask,0.00 x 1400
+2926,PXD,Day's Range,250.20 - 257.67
+2927,PXD,52 Week Range,143.63 - 288.46
+2928,PXD,Volume,"2,418,895"
+2929,PXD,Avg. Volume,"2,692,711"
+2930,PNC,Previous Close,166.49
+2931,PNC,Open,165.88
+2932,PNC,Bid,0.00 x 1000
+2933,PNC,Ask,0.00 x 800
+2934,PNC,Day's Range,165.32 - 167.67
+2935,PNC,52 Week Range,146.39 - 228.14
+2936,PNC,Volume,"1,356,468"
+2937,PNC,Avg. Volume,"1,834,829"
+2938,POOL,Previous Close,360.63
+2939,POOL,Open,360.95
+2940,POOL,Bid,0.00 x 900
+2941,POOL,Ask,0.00 x 800
+2942,POOL,Day's Range,358.43 - 366.27
+2943,POOL,52 Week Range,324.14 - 582.27
+2944,POOL,Volume,"324,539"
+2945,POOL,Avg. Volume,"435,856"
+2946,PPG,Previous Close,127.65
+2947,PPG,Open,127.47
+2948,PPG,Bid,0.00 x 800
+2949,PPG,Ask,0.00 x 900
+2950,PPG,Day's Range,126.72 - 128.71
+2951,PPG,52 Week Range,107.06 - 177.32
+2952,PPG,Volume,"739,064"
+2953,PPG,Avg. Volume,"1,350,364"
+2954,PPL,Previous Close,30.23
+2955,PPL,Open,30.23
+2956,PPL,Bid,0.00 x 2200
+2957,PPL,Ask,0.00 x 3100
+2958,PPL,Day's Range,30.07 - 30.34
+2959,PPL,52 Week Range,24.98 - 30.99
+2960,PPL,Volume,"3,671,869"
+2961,PPL,Avg. Volume,"5,410,459"
+2962,PFG,Previous Close,76.10
+2963,PFG,Open,75.72
+2964,PFG,Bid,0.00 x 1100
+2965,PFG,Ask,0.00 x 800
+2966,PFG,Day's Range,75.57 - 77.06
+2967,PFG,52 Week Range,60.97 - 80.36
+2968,PFG,Volume,"1,336,570"
+2969,PFG,Avg. Volume,"1,515,441"
+2970,PG,Previous Close,146.45
+2971,PG,Open,146.61
+2972,PG,Bid,144.40 x 1800
+2973,PG,Ask,148.00 x 1300
+2974,PG,Day's Range,145.12 - 147.26
+2975,PG,52 Week Range,129.50 - 165.35
+2976,PG,Volume,"5,658,294"
+2977,PG,Avg. Volume,"6,957,950"
+2978,PGR,Previous Close,124.40
+2979,PGR,Open,124.10
+2980,PGR,Bid,123.33 x 800
+2981,PGR,Ask,126.53 x 900
+2982,PGR,Day's Range,123.78 - 125.76
+2983,PGR,52 Week Range,89.35 - 128.58
+2984,PGR,Volume,"1,532,844"
+2985,PGR,Avg. Volume,"2,858,603"
+2986,PLD,Previous Close,128.46
+2987,PLD,Open,129.24
+2988,PLD,Bid,0.00 x 800
+2989,PLD,Ask,0.00 x 900
+2990,PLD,Day's Range,129.07 - 131.63
+2991,PLD,52 Week Range,106.46 - 174.54
+2992,PLD,Volume,"2,572,170"
+2993,PLD,Avg. Volume,"3,679,588"
+2994,PRU,Previous Close,99.33
+2995,PRU,Open,99.08
+2996,PRU,Bid,98.37 x 1300
+2997,PRU,Ask,108.17 x 900
+2998,PRU,Day's Range,98.65 - 99.78
+2999,PRU,52 Week Range,89.73 - 124.22
+3000,PRU,Volume,"881,092"
+3001,PRU,Avg. Volume,"1,738,675"
+3002,PEG,Previous Close,67.38
+3003,PEG,Open,67.41
+3004,PEG,Bid,39.00 x 900
+3005,PEG,Ask,0.00 x 800
+3006,PEG,Day's Range,66.89 - 67.64
+3007,PEG,52 Week Range,58.19 - 75.61
+3008,PEG,Volume,"1,640,991"
+3009,PEG,Avg. Volume,"2,639,674"
+3010,PTC,Previous Close,119.33
+3011,PTC,Open,118.87
+3012,PTC,Bid,115.43 x 1100
+3013,PTC,Ask,122.78 x 1200
+3014,PTC,Day's Range,117.81 - 120.06
+3015,PTC,52 Week Range,96.55 - 137.67
+3016,PTC,Volume,"706,298"
+3017,PTC,Avg. Volume,"705,998"
+3018,PSA,Previous Close,341.09
+3019,PSA,Open,341.14
+3020,PSA,Bid,0.00 x 900
+3021,PSA,Ask,348.02 x 1100
+3022,PSA,Day's Range,341.14 - 346.48
+3023,PSA,52 Week Range,292.32 - 421.76
+3024,PSA,Volume,"675,742"
+3025,PSA,Avg. Volume,"690,538"
+3026,PHM,Previous Close,41.15
+3027,PHM,Open,40.82
+3028,PHM,Bid,42.22 x 1200
+3029,PHM,Ask,0.00 x 800
+3030,PHM,Day's Range,40.63 - 42.52
+3031,PHM,52 Week Range,35.03 - 58.09
+3032,PHM,Volume,"1,785,726"
+3033,PHM,Avg. Volume,"2,399,908"
+3034,PVH,Previous Close,65.44
+3035,PVH,Open,65.21
+3036,PVH,Bid,0.00 x 1000
+3037,PVH,Ask,0.00 x 900
+3038,PVH,Day's Range,64.15 - 66.36
+3039,PVH,52 Week Range,54.57 - 125.42
+3040,PVH,Volume,"650,320"
+3041,PVH,Avg. Volume,"1,216,104"
+3042,QRVO,Previous Close,98.72
+3043,QRVO,Open,98.54
+3044,QRVO,Bid,90.90 x 900
+3045,QRVO,Ask,0.00 x 800
+3046,QRVO,Day's Range,97.39 - 98.80
+3047,QRVO,52 Week Range,90.16 - 192.92
+3048,QRVO,Volume,"665,974"
+3049,QRVO,Avg. Volume,"1,342,490"
+3050,PWR,Previous Close,141.22
+3051,PWR,Open,141.70
+3052,PWR,Bid,139.02 x 800
+3053,PWR,Ask,160.77 x 800
+3054,PWR,Day's Range,141.70 - 145.52
+3055,PWR,52 Week Range,93.91 - 146.84
+3056,PWR,Volume,"719,027"
+3057,PWR,Avg. Volume,"1,406,675"
+3058,QCOM,Previous Close,140.72
+3059,QCOM,Open,140.25
+3060,QCOM,Bid,0.00 x 1100
+3061,QCOM,Ask,143.56 x 800
+3062,QCOM,Day's Range,138.61 - 141.71
+3063,QCOM,52 Week Range,118.23 - 193.58
+3064,QCOM,Volume,"5,113,128"
+3065,QCOM,Avg. Volume,"8,507,809"
+3066,DGX,Previous Close,130.05
+3067,DGX,Open,129.55
+3068,DGX,Bid,0.00 x 800
+3069,DGX,Ask,0.00 x 800
+3070,DGX,Day's Range,127.54 - 129.55
+3071,DGX,52 Week Range,125.33 - 174.16
+3072,DGX,Volume,"925,844"
+3073,DGX,Avg. Volume,"859,437"
+3074,RL,Previous Close,95.27
+3075,RL,Open,95.15
+3076,RL,Bid,0.00 x 900
+3077,RL,Ask,0.00 x 1200
+3078,RL,Day's Range,94.13 - 95.71
+3079,RL,52 Week Range,86.54 - 135.99
+3080,RL,Volume,"964,283"
+3081,RL,Avg. Volume,"960,654"
+3082,RJF,Previous Close,108.89
+3083,RJF,Open,107.02
+3084,RJF,Bid,106.57 x 800
+3085,RJF,Ask,106.69 x 800
+3086,RJF,Day's Range,106.04 - 107.35
+3087,RJF,52 Week Range,84.86 - 117.37
+3088,RJF,Volume,"237,629"
+3089,RJF,Avg. Volume,"1,192,990"
+3090,RTX,Previous Close,92.43
+3091,RTX,Open,92.97
+3092,RTX,Bid,93.35 x 900
+3093,RTX,Ask,94.72 x 1000
+3094,RTX,Day's Range,92.80 - 93.58
+3095,RTX,52 Week Range,79.00 - 106.02
+3096,RTX,Volume,"2,285,316"
+3097,RTX,Avg. Volume,"4,392,632"
+3098,O,Previous Close,70.61
+3099,O,Open,70.61
+3100,O,Bid,70.30 x 800
+3101,O,Ask,0.00 x 1200
+3102,O,Day's Range,70.54 - 70.97
+3103,O,52 Week Range,62.29 - 75.40
+3104,O,Volume,"2,929,365"
+3105,O,Avg. Volume,"3,624,938"
+3106,REG,Previous Close,62.99
+3107,REG,Open,63.30
+3108,REG,Bid,55.00 x 1100
+3109,REG,Ask,69.07 x 800
+3110,REG,Day's Range,62.74 - 63.62
+3111,REG,52 Week Range,55.78 - 78.78
+3112,REG,Volume,"527,574"
+3113,REG,Avg. Volume,"942,926"
+3114,REGN,Previous Close,602.53
+3115,REGN,Open,600.18
+3116,REGN,Bid,0.00 x 1200
+3117,REGN,Ask,650.00 x 900
+3118,REGN,Day's Range,597.00 - 605.72
+3119,REGN,52 Week Range,538.01 - 747.42
+3120,REGN,Volume,"386,463"
+3121,REGN,Avg. Volume,"644,475"
+3122,RF,Previous Close,22.05
+3123,RF,Open,22.01
+3124,RF,Bid,0.00 x 3100
+3125,RF,Ask,22.54 x 3000
+3126,RF,Day's Range,21.86 - 22.22
+3127,RF,52 Week Range,18.01 - 25.57
+3128,RF,Volume,"4,604,139"
+3129,RF,Avg. Volume,"7,011,379"
+3130,RSG,Previous Close,145.74
+3131,RSG,Open,145.86
+3132,RSG,Bid,0.00 x 800
+3133,RSG,Ask,0.00 x 1300
+3134,RSG,Day's Range,145.67 - 147.18
+3135,RSG,52 Week Range,113.57 - 148.26
+3136,RSG,Volume,"664,805"
+3137,RSG,Avg. Volume,"1,074,666"
+3138,RMD,Previous Close,233.49
+3139,RMD,Open,231.63
+3140,RMD,Bid,228.86 x 900
+3141,RMD,Ask,229.02 x 800
+3142,RMD,Day's Range,228.79 - 232.90
+3143,RMD,52 Week Range,189.40 - 301.34
+3144,RMD,Volume,"238,921"
+3145,RMD,Avg. Volume,"568,770"
+3146,RHI,Previous Close,81.39
+3147,RHI,Open,80.03
+3148,RHI,Bid,0.00 x 800
+3149,RHI,Ask,0.00 x 800
+3150,RHI,Day's Range,77.97 - 80.12
+3151,RHI,52 Week Range,73.10 - 125.77
+3152,RHI,Volume,"665,738"
+3153,RHI,Avg. Volume,"1,047,420"
+3154,ROK,Previous Close,243.42
+3155,ROK,Open,243.66
+3156,ROK,Bid,0.00 x 900
+3157,ROK,Ask,272.00 x 800
+3158,ROK,Day's Range,241.30 - 245.80
+3159,ROK,52 Week Range,190.08 - 354.99
+3160,ROK,Volume,"776,728"
+3161,ROK,Avg. Volume,"993,656"
+3162,ROL,Previous Close,36.40
+3163,ROL,Open,36.18
+3164,ROL,Bid,35.88 x 900
+3165,ROL,Ask,35.89 x 800
+3166,ROL,Day's Range,35.72 - 36.31
+3167,ROL,52 Week Range,28.51 - 40.11
+3168,ROL,Volume,"747,350"
+3169,ROL,Avg. Volume,"1,577,338"
+3170,ROP,Previous Close,433.32
+3171,ROP,Open,429.22
+3172,ROP,Bid,422.44 x 1100
+3173,ROP,Ask,588.02 x 900
+3174,ROP,Day's Range,421.48 - 430.43
+3175,ROP,52 Week Range,369.51 - 505.00
+3176,ROP,Volume,"366,622"
+3177,ROP,Avg. Volume,"542,911"
+3178,ROST,Previous Close,87.96
+3179,ROST,Open,87.77
+3180,ROST,Bid,76.56 x 800
+3181,ROST,Ask,97.00 x 1100
+3182,ROST,Day's Range,87.20 - 90.75
+3183,ROST,52 Week Range,69.24 - 123.36
+3184,ROST,Volume,"2,746,765"
+3185,ROST,Avg. Volume,"3,087,556"
+3186,RCL,Previous Close,38.96
+3187,RCL,Open,39.01
+3188,RCL,Bid,41.96 x 900
+3189,RCL,Ask,43.00 x 1000
+3190,RCL,Day's Range,38.93 - 41.99
+3191,RCL,52 Week Range,31.09 - 98.27
+3192,RCL,Volume,"6,490,149"
+3193,RCL,Avg. Volume,"7,322,241"
+3194,SPGI,Previous Close,372.80
+3195,SPGI,Open,372.94
+3196,SPGI,Bid,360.20 x 900
+3197,SPGI,Ask,415.49 x 1800
+3198,SPGI,Day's Range,371.99 - 376.72
+3199,SPGI,52 Week Range,311.87 - 484.21
+3200,SPGI,Volume,"1,012,370"
+3201,SPGI,Avg. Volume,"2,191,980"
+3202,CRM,Previous Close,176.00
+3203,CRM,Open,176.67
+3204,CRM,Bid,0.00 x 900
+3205,CRM,Ask,169.68 x 1400
+3206,CRM,Day's Range,176.06 - 181.23
+3207,CRM,52 Week Range,154.55 - 311.75
+3208,CRM,Volume,"9,385,957"
+3209,CRM,Avg. Volume,"6,710,558"
+3210,SBAC,Previous Close,344.49
+3211,SBAC,Open,344.28
+3212,SBAC,Bid,339.17 x 800
+3213,SBAC,Ask,339.45 x 800
+3214,SBAC,Day's Range,337.61 - 345.07
+3215,SBAC,52 Week Range,286.41 - 391.15
+3216,SBAC,Volume,"303,729"
+3217,SBAC,Avg. Volume,"622,406"
+3218,SLB,Previous Close,39.36
+3219,SLB,Open,39.14
+3220,SLB,Bid,40.00 x 2200
+3221,SLB,Ask,40.24 x 1100
+3222,SLB,Day's Range,39.14 - 40.10
+3223,SLB,52 Week Range,26.44 - 49.83
+3224,SLB,Volume,"11,275,353"
+3225,SLB,Avg. Volume,"13,468,922"
+3226,STX,Previous Close,75.56
+3227,STX,Open,75.34
+3228,STX,Bid,68.88 x 1200
+3229,STX,Ask,85.90 x 800
+3230,STX,Day's Range,75.30 - 76.69
+3231,STX,52 Week Range,67.36 - 117.67
+3232,STX,Volume,"1,131,225"
+3233,STX,Avg. Volume,"1,896,211"
+3234,SEE,Previous Close,55.47
+3235,SEE,Open,56.33
+3236,SEE,Bid,57.30 x 800
+3237,SEE,Ask,57.32 x 1000
+3238,SEE,Day's Range,55.94 - 57.48
+3239,SEE,52 Week Range,54.51 - 70.72
+3240,SEE,Volume,"826,815"
+3241,SEE,Avg. Volume,"935,653"
+3242,SRE,Previous Close,168.30
+3243,SRE,Open,168.30
+3244,SRE,Bid,0.00 x 800
+3245,SRE,Ask,169.37 x 1000
+3246,SRE,Day's Range,167.53 - 169.35
+3247,SRE,52 Week Range,119.56 - 173.28
+3248,SRE,Volume,"965,150"
+3249,SRE,Avg. Volume,"1,471,782"
+3250,NOW,Previous Close,459.99
+3251,NOW,Open,460.29
+3252,NOW,Bid,435.00 x 1100
+3253,NOW,Ask,496.00 x 1200
+3254,NOW,Day's Range,455.16 - 463.42
+3255,NOW,52 Week Range,406.47 - 707.60
+3256,NOW,Volume,"821,894"
+3257,NOW,Avg. Volume,"1,677,658"
+3258,SHW,Previous Close,238.08
+3259,SHW,Open,238.26
+3260,SHW,Bid,223.00 x 1000
+3261,SHW,Ask,0.00 x 1000
+3262,SHW,Day's Range,237.12 - 242.69
+3263,SHW,52 Week Range,214.22 - 354.15
+3264,SHW,Volume,"1,380,648"
+3265,SHW,Avg. Volume,"1,721,569"
+3266,SBNY,Previous Close,186.08
+3267,SBNY,Open,185.74
+3268,SBNY,Bid,187.02 x 800
+3269,SBNY,Ask,187.63 x 800
+3270,SBNY,Day's Range,185.65 - 187.71
+3271,SBNY,52 Week Range,165.36 - 374.76
+3272,SBNY,Volume,"20,995"
+3273,SBNY,Avg. Volume,"899,524"
+3274,SPG,Previous Close,106.84
+3275,SPG,Open,106.61
+3276,SPG,Bid,104.78 x 800
+3277,SPG,Ask,0.00 x 900
+3278,SPG,Day's Range,105.92 - 107.69
+3279,SPG,52 Week Range,93.06 - 171.12
+3280,SPG,Volume,"1,026,096"
+3281,SPG,Avg. Volume,"1,958,719"
+3282,SWKS,Previous Close,103.86
+3283,SWKS,Open,103.82
+3284,SWKS,Bid,102.20 x 900
+3285,SWKS,Ask,108.60 x 900
+3286,SWKS,Day's Range,102.98 - 104.93
+3287,SWKS,52 Week Range,88.76 - 186.87
+3288,SWKS,Volume,"1,342,971"
+3289,SWKS,Avg. Volume,"1,922,737"
+3290,SJM,Previous Close,142.35
+3291,SJM,Open,143.35
+3292,SJM,Bid,127.79 x 1300
+3293,SJM,Ask,0.00 x 800
+3294,SJM,Day's Range,142.35 - 144.90
+3295,SJM,52 Week Range,118.55 - 146.74
+3296,SJM,Volume,"1,037,639"
+3297,SJM,Avg. Volume,"907,345"
+3298,SNA,Previous Close,230.13
+3299,SNA,Open,227.62
+3300,SNA,Bid,219.00 x 900
+3301,SNA,Ask,230.99 x 1100
+3302,SNA,Day's Range,223.50 - 228.02
+3303,SNA,52 Week Range,190.08 - 235.36
+3304,SNA,Volume,"202,256"
+3305,SNA,Avg. Volume,"291,974"
+3306,SEDG,Previous Close,288.46
+3307,SEDG,Open,289.01
+3308,SEDG,Bid,298.00 x 1300
+3309,SEDG,Ask,0.00 x 800
+3310,SEDG,Day's Range,289.01 - 299.53
+3311,SEDG,52 Week Range,200.86 - 389.71
+3312,SEDG,Volume,"707,201"
+3313,SEDG,Avg. Volume,"981,627"
+3314,SO,Previous Close,78.79
+3315,SO,Open,79.02
+3316,SO,Bid,77.30 x 800
+3317,SO,Ask,84.00 x 800
+3318,SO,Day's Range,78.31 - 79.15
+3319,SO,52 Week Range,60.99 - 80.57
+3320,SO,Volume,"2,285,218"
+3321,SO,Avg. Volume,"4,451,687"
+3322,LUV,Previous Close,37.47
+3323,LUV,Open,37.60
+3324,LUV,Bid,0.00 x 1100
+3325,LUV,Ask,39.06 x 900
+3326,LUV,Day's Range,37.43 - 38.08
+3327,LUV,52 Week Range,34.36 - 56.33
+3328,LUV,Volume,"6,024,675"
+3329,LUV,Avg. Volume,"5,688,725"
+3330,SWK,Previous Close,92.33
+3331,SWK,Open,92.06
+3332,SWK,Bid,0.00 x 800
+3333,SWK,Ask,0.00 x 1000
+3334,SWK,Day's Range,91.48 - 93.79
+3335,SWK,52 Week Range,91.48 - 199.20
+3336,SWK,Volume,"1,371,614"
+3337,SWK,Avg. Volume,"1,977,916"
+3338,SBUX,Previous Close,84.69
+3339,SBUX,Open,84.76
+3340,SBUX,Bid,86.14 x 900
+3341,SBUX,Ask,86.94 x 800
+3342,SBUX,Day's Range,84.48 - 86.47
+3343,SBUX,52 Week Range,68.39 - 120.76
+3344,SBUX,Volume,"4,385,983"
+3345,SBUX,Avg. Volume,"7,111,220"
+3346,STT,Previous Close,70.77
+3347,STT,Open,70.54
+3348,STT,Bid,0.00 x 1100
+3349,STT,Ask,71.99 x 900
+3350,STT,Day's Range,70.01 - 71.24
+3351,STT,52 Week Range,58.80 - 104.87
+3352,STT,Volume,"849,660"
+3353,STT,Avg. Volume,"2,413,995"
+3354,STE,Previous Close,207.99
+3355,STE,Open,206.90
+3356,STE,Bid,207.43 x 800
+3357,STE,Ask,208.22 x 800
+3358,STE,Day's Range,206.33 - 208.43
+3359,STE,52 Week Range,192.40 - 255.93
+3360,STE,Volume,"32,083"
+3361,STE,Avg. Volume,"514,762"
+3362,SYK,Previous Close,209.14
+3363,SYK,Open,208.95
+3364,SYK,Bid,0.00 x 900
+3365,SYK,Ask,222.14 x 1100
+3366,SYK,Day's Range,208.56 - 212.91
+3367,SYK,52 Week Range,188.84 - 281.16
+3368,SYK,Volume,"1,471,947"
+3369,SYK,Avg. Volume,"1,443,790"
+3370,SIVB,Previous Close,422.51
+3371,SIVB,Open,424.63
+3372,SIVB,Bid,0.00 x 800
+3373,SIVB,Ask,484.75 x 1000
+3374,SIVB,Day's Range,422.54 - 433.40
+3375,SIVB,52 Week Range,355.37 - 763.22
+3376,SIVB,Volume,"318,161"
+3377,SIVB,Avg. Volume,"561,654"
+3378,SYF,Previous Close,34.00
+3379,SYF,Open,34.00
+3380,SYF,Bid,34.51 x 2900
+3381,SYF,Ask,34.90 x 800
+3382,SYF,Day's Range,33.71 - 34.58
+3383,SYF,52 Week Range,27.22 - 52.49
+3384,SYF,Volume,"3,329,519"
+3385,SYF,Avg. Volume,"5,895,782"
+3386,SNPS,Previous Close,359.00
+3387,SNPS,Open,357.78
+3388,SNPS,Bid,347.92 x 1000
+3389,SNPS,Ask,0.00 x 900
+3390,SNPS,Day's Range,355.38 - 360.54
+3391,SNPS,52 Week Range,255.02 - 391.17
+3392,SNPS,Volume,"694,868"
+3393,SNPS,Avg. Volume,"932,293"
+3394,SYY,Previous Close,85.28
+3395,SYY,Open,85.63
+3396,SYY,Bid,85.92 x 1200
+3397,SYY,Ask,87.58 x 900
+3398,SYY,Day's Range,85.27 - 86.13
+3399,SYY,52 Week Range,68.05 - 91.53
+3400,SYY,Volume,"1,444,261"
+3401,SYY,Avg. Volume,"2,223,387"
+3402,TMUS,Previous Close,143.86
+3403,TMUS,Open,143.51
+3404,TMUS,Bid,145.53 x 800
+3405,TMUS,Ask,147.49 x 800
+3406,TMUS,Day's Range,142.88 - 146.51
+3407,TMUS,52 Week Range,101.51 - 147.68
+3408,TMUS,Volume,"4,701,700"
+3409,TMUS,Avg. Volume,"4,135,869"
+3410,TROW,Previous Close,124.45
+3411,TROW,Open,124.29
+3412,TROW,Bid,115.10 x 900
+3413,TROW,Ask,135.00 x 900
+3414,TROW,Day's Range,124.01 - 126.44
+3415,TROW,52 Week Range,104.72 - 224.56
+3416,TROW,Volume,"911,203"
+3417,TROW,Avg. Volume,"1,558,050"
+3418,TTWO,Previous Close,124.36
+3419,TTWO,Open,124.61
+3420,TTWO,Bid,0.00 x 800
+3421,TTWO,Ask,126.45 x 900
+3422,TTWO,Day's Range,123.17 - 125.40
+3423,TTWO,52 Week Range,101.85 - 195.83
+3424,TTWO,Volume,"996,688"
+3425,TTWO,Avg. Volume,"2,196,296"
+3426,TPR,Previous Close,36.24
+3427,TPR,Open,36.20
+3428,TPR,Bid,0.00 x 800
+3429,TPR,Ask,0.00 x 800
+3430,TPR,Day's Range,35.88 - 36.52
+3431,TPR,52 Week Range,26.39 - 47.05
+3432,TPR,Volume,"2,905,143"
+3433,TPR,Avg. Volume,"3,526,832"
+3434,TGT,Previous Close,161.97
+3435,TGT,Open,162.07
+3436,TGT,Bid,0.00 x 1000
+3437,TGT,Ask,166.10 x 1000
+3438,TGT,Day's Range,159.72 - 164.54
+3439,TGT,52 Week Range,137.16 - 268.98
+3440,TGT,Volume,"3,340,265"
+3441,TGT,Avg. Volume,"5,049,735"
+3442,TEL,Previous Close,134.87
+3443,TEL,Open,132.64
+3444,TEL,Bid,129.65 x 800
+3445,TEL,Ask,129.69 x 800
+3446,TEL,Day's Range,129.58 - 132.70
+3447,TEL,52 Week Range,107.12 - 166.44
+3448,TEL,Volume,"1,064,508"
+3449,TEL,Avg. Volume,"1,460,212"
+3450,TDY,Previous Close,391.40
+3451,TDY,Open,386.94
+3452,TDY,Bid,392.82 x 800
+3453,TDY,Ask,392.89 x 900
+3454,TDY,Day's Range,384.48 - 395.16
+3455,TDY,52 Week Range,344.66 - 493.97
+3456,TDY,Volume,"152,300"
+3457,TDY,Avg. Volume,"315,650"
+3458,TFX,Previous Close,245.69
+3459,TFX,Open,241.89
+3460,TFX,Bid,239.86 x 1200
+3461,TFX,Ask,239.94 x 1000
+3462,TFX,Day's Range,235.72 - 243.49
+3463,TFX,52 Week Range,235.01 - 405.90
+3464,TFX,Volume,"1,679,608"
+3465,TFX,Avg. Volume,"419,545"
+3466,TER,Previous Close,92.98
+3467,TER,Open,93.23
+3468,TER,Bid,92.47 x 900
+3469,TER,Ask,0.00 x 900
+3470,TER,Day's Range,91.87 - 93.56
+3471,TER,52 Week Range,82.97 - 168.91
+3472,TER,Volume,"1,209,882"
+3473,TER,Avg. Volume,"1,746,737"
+3474,TSLA,Previous Close,889.36
+3475,TSLA,Open,892.69
+3476,TSLA,Bid,0.00 x 2900
+3477,TSLA,Ask,0.00 x 900
+3478,TSLA,Day's Range,889.52 - 910.94
+3479,TSLA,52 Week Range,"620.57 - 1,243.49"
+3480,TSLA,Volume,"19,086,572"
+3481,TSLA,Avg. Volume,"29,531,377"
+3482,TXN,Previous Close,172.52
+3483,TXN,Open,171.41
+3484,TXN,Bid,169.02 x 800
+3485,TXN,Ask,0.00 x 900
+3486,TXN,Day's Range,170.75 - 172.59
+3487,TXN,52 Week Range,144.46 - 202.26
+3488,TXN,Volume,"3,037,795"
+3489,TXN,Avg. Volume,"5,443,661"
+3490,TXT,Previous Close,64.78
+3491,TXT,Open,65.00
+3492,TXT,Bid,0.00 x 1000
+3493,TXT,Ask,0.00 x 800
+3494,TXT,Day's Range,64.75 - 65.44
+3495,TXT,52 Week Range,57.11 - 79.45
+3496,TXT,Volume,"708,447"
+3497,TXT,Avg. Volume,"1,051,459"
+3498,TMO,Previous Close,572.97
+3499,TMO,Open,572.98
+3500,TMO,Bid,0.00 x 1200
+3501,TMO,Ask,604.00 x 1000
+3502,TMO,Day's Range,570.98 - 576.19
+3503,TMO,52 Week Range,497.83 - 672.34
+3504,TMO,Volume,"826,323"
+3505,TMO,Avg. Volume,"1,227,804"
+3506,TJX,Previous Close,63.89
+3507,TJX,Open,63.64
+3508,TJX,Bid,0.00 x 2200
+3509,TJX,Ask,65.81 x 900
+3510,TJX,Day's Range,63.26 - 64.95
+3511,TJX,52 Week Range,53.69 - 77.35
+3512,TJX,Volume,"5,445,482"
+3513,TJX,Avg. Volume,"5,844,025"
+3514,TSCO,Previous Close,200.03
+3515,TSCO,Open,200.00
+3516,TSCO,Bid,0.00 x 800
+3517,TSCO,Ask,0.00 x 800
+3518,TSCO,Day's Range,198.53 - 201.57
+3519,TSCO,52 Week Range,166.49 - 241.54
+3520,TSCO,Volume,"749,019"
+3521,TSCO,Avg. Volume,"1,139,285"
+3522,TT,Previous Close,157.86
+3523,TT,Open,157.45
+3524,TT,Bid,0.00 x 800
+3525,TT,Ask,0.00 x 800
+3526,TT,Day's Range,156.94 - 158.58
+3527,TT,52 Week Range,120.64 - 204.23
+3528,TT,Volume,"982,465"
+3529,TT,Avg. Volume,"1,369,066"
+3530,TDG,Previous Close,646.00
+3531,TDG,Open,635.72
+3532,TDG,Bid,0.00 x 900
+3533,TDG,Ask,"1,012.36 x 800"
+3534,TDG,Day's Range,630.09 - 639.37
+3535,TDG,52 Week Range,500.08 - 686.06
+3536,TDG,Volume,"508,943"
+3537,TDG,Avg. Volume,"310,083"
+3538,TRV,Previous Close,168.29
+3539,TRV,Open,167.94
+3540,TRV,Bid,166.50 x 1200
+3541,TRV,Ask,0.00 x 800
+3542,TRV,Day's Range,167.24 - 168.79
+3543,TRV,52 Week Range,145.40 - 187.98
+3544,TRV,Volume,"618,859"
+3545,TRV,Avg. Volume,"1,158,424"
+3546,TRMB,Previous Close,71.74
+3547,TRMB,Open,71.56
+3548,TRMB,Bid,71.70 x 900
+3549,TRMB,Ask,71.72 x 1200
+3550,TRMB,Day's Range,71.07 - 72.24
+3551,TRMB,52 Week Range,55.35 - 96.49
+3552,TRMB,Volume,"229,380"
+3553,TRMB,Avg. Volume,"1,096,851"
+3554,TFC,Previous Close,49.27
+3555,TFC,Open,49.10
+3556,TFC,Bid,0.00 x 1400
+3557,TFC,Ask,50.80 x 800
+3558,TFC,Day's Range,48.85 - 49.44
+3559,TFC,52 Week Range,44.68 - 68.95
+3560,TFC,Volume,"2,418,012"
+3561,TFC,Avg. Volume,"5,582,193"
+3562,TWTR,Previous Close,39.86
+3563,TWTR,Open,39.28
+3564,TWTR,Bid,0.00 x 2200
+3565,TWTR,Ask,40.97 x 900
+3566,TWTR,Day's Range,38.77 - 40.99
+3567,TWTR,52 Week Range,31.30 - 68.41
+3568,TWTR,Volume,"16,945,347"
+3569,TWTR,Avg. Volume,"14,865,495"
+3570,TYL,Previous Close,387.28
+3571,TYL,Open,390.06
+3572,TYL,Bid,0.00 x 800
+3573,TYL,Ask,0.00 x 800
+3574,TYL,Day's Range,387.33 - 390.40
+3575,TYL,52 Week Range,300.85 - 557.55
+3576,TYL,Volume,"112,735"
+3577,TYL,Avg. Volume,"249,387"
+3578,TSN,Previous Close,79.83
+3579,TSN,Open,79.98
+3580,TSN,Bid,79.64 x 1300
+3581,TSN,Ask,0.00 x 800
+3582,TSN,Day's Range,78.80 - 79.99
+3583,TSN,52 Week Range,74.43 - 100.72
+3584,TSN,Volume,"1,564,087"
+3585,TSN,Avg. Volume,"1,862,466"
+3586,USB,Previous Close,47.41
+3587,USB,Open,47.10
+3588,USB,Bid,0.00 x 2200
+3589,USB,Ask,0.00 x 1800
+3590,USB,Day's Range,46.81 - 47.34
+3591,USB,52 Week Range,43.75 - 63.57
+3592,USB,Volume,"4,536,656"
+3593,USB,Avg. Volume,"6,624,904"
+3594,UDR,Previous Close,48.83
+3595,UDR,Open,48.55
+3596,UDR,Bid,48.43 x 1100
+3597,UDR,Ask,48.44 x 800
+3598,UDR,Day's Range,48.25 - 48.75
+3599,UDR,52 Week Range,42.00 - 61.06
+3600,UDR,Volume,"130,696"
+3601,UDR,Avg. Volume,"2,060,238"
+3602,ULTA,Previous Close,401.31
+3603,ULTA,Open,403.70
+3604,ULTA,Bid,405.10 x 1100
+3605,ULTA,Ask,0.00 x 800
+3606,ULTA,Day's Range,400.16 - 415.03
+3607,ULTA,52 Week Range,330.80 - 438.63
+3608,ULTA,Volume,"832,242"
+3609,ULTA,Avg. Volume,"859,301"
+3610,UNP,Previous Close,237.64
+3611,UNP,Open,237.33
+3612,UNP,Bid,231.84 x 1000
+3613,UNP,Ask,244.80 x 900
+3614,UNP,Day's Range,236.85 - 239.02
+3615,UNP,52 Week Range,195.68 - 278.94
+3616,UNP,Volume,"1,577,579"
+3617,UNP,Avg. Volume,"2,470,074"
+3618,UAL,Previous Close,36.91
+3619,UAL,Open,36.95
+3620,UAL,Bid,37.54 x 900
+3621,UAL,Ask,0.00 x 2200
+3622,UAL,Day's Range,36.61 - 37.69
+3623,UAL,52 Week Range,30.54 - 54.52
+3624,UAL,Volume,"5,387,622"
+3625,UAL,Avg. Volume,"10,860,691"
+3626,UPS,Previous Close,205.27
+3627,UPS,Open,203.90
+3628,UPS,Bid,0.00 x 800
+3629,UPS,Ask,0.00 x 900
+3630,UPS,Day's Range,202.87 - 205.09
+3631,UPS,52 Week Range,165.34 - 233.72
+3632,UPS,Volume,"1,984,016"
+3633,UPS,Avg. Volume,"2,922,500"
+3634,URI,Previous Close,307.01
+3635,URI,Open,307.00
+3636,URI,Bid,0.00 x 800
+3637,URI,Ask,368.00 x 800
+3638,URI,Day's Range,304.27 - 313.98
+3639,URI,52 Week Range,230.54 - 414.99
+3640,URI,Volume,"513,122"
+3641,URI,Avg. Volume,"742,701"
+3642,UNH,Previous Close,535.80
+3643,UNH,Open,536.68
+3644,UNH,Bid,521.00 x 1000
+3645,UNH,Ask,546.00 x 900
+3646,UNH,Day's Range,535.02 - 539.86
+3647,UNH,52 Week Range,383.12 - 553.29
+3648,UNH,Volume,"1,663,654"
+3649,UNH,Avg. Volume,"3,054,283"
+3650,UHS,Previous Close,112.47
+3651,UHS,Open,111.71
+3652,UHS,Bid,111.70 x 800
+3653,UHS,Ask,111.89 x 1000
+3654,UHS,Day's Range,110.83 - 112.27
+3655,UHS,52 Week Range,98.63 - 162.23
+3656,UHS,Volume,"40,968"
+3657,UHS,Avg. Volume,"862,982"
+3658,VLO,Previous Close,122.11
+3659,VLO,Open,122.51
+3660,VLO,Bid,122.00 x 900
+3661,VLO,Ask,124.80 x 800
+3662,VLO,Day's Range,121.06 - 124.28
+3663,VLO,52 Week Range,61.86 - 146.81
+3664,VLO,Volume,"3,354,546"
+3665,VLO,Avg. Volume,"5,181,780"
+3666,VTR,Previous Close,48.16
+3667,VTR,Open,48.13
+3668,VTR,Bid,0.00 x 800
+3669,VTR,Ask,0.00 x 800
+3670,VTR,Day's Range,48.04 - 48.70
+3671,VTR,52 Week Range,45.44 - 64.02
+3672,VTR,Volume,"1,594,290"
+3673,VTR,Avg. Volume,"1,829,650"
+3674,VRSN,Previous Close,201.47
+3675,VRSN,Open,199.97
+3676,VRSN,Bid,195.71 x 900
+3677,VRSN,Ask,195.79 x 1300
+3678,VRSN,Day's Range,195.52 - 200.50
+3679,VRSN,52 Week Range,155.25 - 257.03
+3680,VRSN,Volume,"363,228"
+3681,VRSN,Avg. Volume,"633,166"
+3682,VRSK,Previous Close,200.57
+3683,VRSK,Open,200.07
+3684,VRSK,Bid,199.20 x 900
+3685,VRSK,Ask,199.28 x 900
+3686,VRSK,Day's Range,198.75 - 201.09
+3687,VRSK,52 Week Range,156.05 - 231.57
+3688,VRSK,Volume,"307,242"
+3689,VRSK,Avg. Volume,"774,967"
+3690,VZ,Previous Close,43.47
+3691,VZ,Open,43.55
+3692,VZ,Bid,0.00 x 3100
+3693,VZ,Ask,0.00 x 2900
+3694,VZ,Day's Range,43.22 - 43.63
+3695,VZ,52 Week Range,43.22 - 55.51
+3696,VZ,Volume,"16,742,570"
+3697,VZ,Avg. Volume,"19,340,130"
+3698,VRTX,Previous Close,286.25
+3699,VRTX,Open,287.35
+3700,VRTX,Bid,0.00 x 800
+3701,VRTX,Ask,0.00 x 800
+3702,VRTX,Day's Range,285.03 - 291.96
+3703,VRTX,52 Week Range,176.36 - 305.95
+3704,VRTX,Volume,"910,166"
+3705,VRTX,Avg. Volume,"1,559,698"
+3706,VFC,Previous Close,43.41
+3707,VFC,Open,43.43
+3708,VFC,Bid,43.56 x 800
+3709,VFC,Ask,44.20 x 800
+3710,VFC,Day's Range,43.14 - 43.99
+3711,VFC,52 Week Range,42.98 - 78.91
+3712,VFC,Volume,"1,920,275"
+3713,VFC,Avg. Volume,"3,124,054"
+3714,VTRS,Previous Close,10.15
+3715,VTRS,Open,10.15
+3716,VTRS,Bid,9.87 x 4000
+3717,VTRS,Ask,10.20 x 4000
+3718,VTRS,Day's Range,9.98 - 10.23
+3719,VTRS,52 Week Range,9.45 - 15.60
+3720,VTRS,Volume,"4,523,767"
+3721,VTRS,Avg. Volume,"11,093,625"
+3722,VICI,Previous Close,33.69
+3723,VICI,Open,33.77
+3724,VICI,Bid,32.00 x 1200
+3725,VICI,Ask,0.00 x 3000
+3726,VICI,Day's Range,33.66 - 34.26
+3727,VICI,52 Week Range,26.23 - 35.69
+3728,VICI,Volume,"8,408,079"
+3729,VICI,Avg. Volume,"13,593,885"
+3730,V,Previous Close,206.80
+3731,V,Open,206.63
+3732,V,Bid,207.72 x 1200
+3733,V,Ask,208.75 x 900
+3734,V,Day's Range,205.68 - 208.35
+3735,V,52 Week Range,185.91 - 236.96
+3736,V,Volume,"4,106,296"
+3737,V,Avg. Volume,"6,065,279"
+3738,VNO,Previous Close,27.97
+3739,VNO,Open,27.98
+3740,VNO,Bid,0.00 x 1300
+3741,VNO,Ask,0.00 x 800
+3742,VNO,Day's Range,27.67 - 28.02
+3743,VNO,52 Week Range,27.35 - 47.26
+3744,VNO,Volume,"1,519,948"
+3745,VNO,Avg. Volume,"1,926,766"
+3746,VMC,Previous Close,171.15
+3747,VMC,Open,171.10
+3748,VMC,Bid,152.91 x 800
+3749,VMC,Ask,174.29 x 900
+3750,VMC,Day's Range,169.91 - 172.40
+3751,VMC,52 Week Range,137.54 - 213.65
+3752,VMC,Volume,"709,931"
+3753,VMC,Avg. Volume,"704,351"
+3754,WAB,Previous Close,91.30
+3755,WAB,Open,91.43
+3756,WAB,Bid,91.88 x 1000
+3757,WAB,Ask,91.89 x 1000
+3758,WAB,Day's Range,91.06 - 92.76
+3759,WAB,52 Week Range,78.26 - 100.05
+3760,WAB,Volume,"343,240"
+3761,WAB,Avg. Volume,"910,500"
+3762,WBA,Previous Close,37.44
+3763,WBA,Open,37.28
+3764,WBA,Bid,36.60 x 2200
+3765,WBA,Ask,0.00 x 1000
+3766,WBA,Day's Range,36.57 - 37.32
+3767,WBA,52 Week Range,36.57 - 55.00
+3768,WBA,Volume,"7,603,048"
+3769,WBA,Avg. Volume,"6,402,209"
+3770,WMT,Previous Close,134.00
+3771,WMT,Open,134.35
+3772,WMT,Bid,0.00 x 900
+3773,WMT,Ask,135.60 x 1100
+3774,WMT,Day's Range,133.60 - 135.29
+3775,WMT,52 Week Range,117.27 - 160.77
+3776,WMT,Volume,"5,085,937"
+3777,WMT,Avg. Volume,"8,627,298"
+3778,WBD,Previous Close,12.79
+3779,WBD,Open,12.84
+3780,WBD,Bid,0.00 x 3000
+3781,WBD,Ask,13.75 x 1000
+3782,WBD,Day's Range,12.79 - 13.59
+3783,WBD,52 Week Range,12.69 - 31.55
+3784,WBD,Volume,"27,565,299"
+3785,WBD,Avg. Volume,"23,766,427"
+3786,WM,Previous Close,173.43
+3787,WM,Open,173.79
+3788,WM,Bid,172.80 x 900
+3789,WM,Ask,0.00 x 900
+3790,WM,Day's Range,172.78 - 174.27
+3791,WM,52 Week Range,138.58 - 175.98
+3792,WM,Volume,"1,426,343"
+3793,WM,Avg. Volume,"1,520,932"
+3794,WAT,Previous Close,327.98
+3795,WAT,Open,323.19
+3796,WAT,Bid,301.58 x 800
+3797,WAT,Ask,318.70 x 800
+3798,WAT,Day's Range,316.66 - 326.25
+3799,WAT,52 Week Range,288.32 - 428.22
+3800,WAT,Volume,"253,219"
+3801,WAT,Avg. Volume,"372,688"
+3802,WEC,Previous Close,105.95
+3803,WEC,Open,106.00
+3804,WEC,Bid,0.00 x 900
+3805,WEC,Ask,131.00 x 800
+3806,WEC,Day's Range,105.19 - 106.35
+3807,WEC,52 Week Range,86.84 - 108.39
+3808,WEC,Volume,"627,902"
+3809,WEC,Avg. Volume,"1,285,846"
+3810,WFC,Previous Close,44.37
+3811,WFC,Open,44.33
+3812,WFC,Bid,0.00 x 3200
+3813,WFC,Ask,0.00 x 900
+3814,WFC,Day's Range,44.02 - 44.70
+3815,WFC,52 Week Range,36.54 - 60.30
+3816,WFC,Volume,"10,822,011"
+3817,WFC,Avg. Volume,"19,336,117"
+3818,WELL,Previous Close,77.15
+3819,WELL,Open,76.97
+3820,WELL,Bid,0.00 x 800
+3821,WELL,Ask,0.00 x 900
+3822,WELL,Day's Range,76.91 - 78.19
+3823,WELL,52 Week Range,76.56 - 99.43
+3824,WELL,Volume,"2,491,688"
+3825,WELL,Avg. Volume,"2,353,748"
+3826,WST,Previous Close,339.92
+3827,WST,Open,338.85
+3828,WST,Bid,342.47 x 800
+3829,WST,Ask,343.92 x 800
+3830,WST,Day's Range,338.17 - 345.10
+3831,WST,52 Week Range,275.89 - 475.35
+3832,WST,Volume,"554,539"
+3833,WST,Avg. Volume,"449,933"
+3834,WDC,Previous Close,45.85
+3835,WDC,Open,45.43
+3836,WDC,Bid,45.60 x 1000
+3837,WDC,Ask,0.00 x 800
+3838,WDC,Day's Range,45.38 - 46.72
+3839,WDC,52 Week Range,41.63 - 69.36
+3840,WDC,Volume,"2,294,453"
+3841,WDC,Avg. Volume,"3,322,070"
+3842,WRK,Previous Close,41.44
+3843,WRK,Open,41.40
+3844,WRK,Bid,39.81 x 800
+3845,WRK,Ask,50.00 x 1300
+3846,WRK,Day's Range,40.89 - 41.49
+3847,WRK,52 Week Range,38.28 - 54.78
+3848,WRK,Volume,"968,648"
+3849,WRK,Avg. Volume,"1,766,933"
+3850,WY,Previous Close,35.51
+3851,WY,Open,35.56
+3852,WY,Bid,0.00 x 800
+3853,WY,Ask,37.42 x 1200
+3854,WY,Day's Range,35.46 - 36.19
+3855,WY,52 Week Range,32.50 - 43.04
+3856,WY,Volume,"3,374,112"
+3857,WY,Avg. Volume,"4,226,666"
+3858,WHR,Previous Close,165.07
+3859,WHR,Open,164.80
+3860,WHR,Bid,0.00 x 1100
+3861,WHR,Ask,175.00 x 900
+3862,WHR,Day's Range,162.46 - 167.15
+3863,WHR,52 Week Range,145.93 - 245.44
+3864,WHR,Volume,"537,809"
+3865,WHR,Avg. Volume,"935,324"
+3866,WMB,Previous Close,35.12
+3867,WMB,Open,35.34
+3868,WMB,Bid,35.19 x 1100
+3869,WMB,Ask,35.80 x 3100
+3870,WMB,Day's Range,35.04 - 35.60
+3871,WMB,52 Week Range,23.98 - 37.97
+3872,WMB,Volume,"9,261,882"
+3873,WMB,Avg. Volume,"8,209,951"
+3874,WTW,"
+","
+
+Will be right back...
+Thank you for your patience.
+Our engineers are working quickly to resolve the issue.
+"
+3875,GWW,Previous Close,576.74
+3876,GWW,Open,577.97
+3877,GWW,Bid,0.00 x 800
+3878,GWW,Ask,588.23 x 800
+3879,GWW,Day's Range,574.19 - 579.28
+3880,GWW,52 Week Range,391.16 - 588.62
+3881,GWW,Volume,"199,815"
+3882,GWW,Avg. Volume,"296,125"
+3883,WYNN,Previous Close,61.49
+3884,WYNN,Open,61.50
+3885,WYNN,Bid,0.00 x 800
+3886,WYNN,Ask,0.00 x 800
+3887,WYNN,Day's Range,61.04 - 63.45
+3888,WYNN,52 Week Range,50.20 - 107.44
+3889,WYNN,Volume,"1,337,508"
+3890,WYNN,Avg. Volume,"2,846,367"
+3891,XEL,Previous Close,75.35
+3892,XEL,Open,75.40
+3893,XEL,Bid,0.00 x 900
+3894,XEL,Ask,0.00 x 900
+3895,XEL,Day's Range,74.84 - 75.55
+3896,XEL,52 Week Range,61.16 - 77.53
+3897,XEL,Volume,"1,312,035"
+3898,XEL,Avg. Volume,"2,907,783"
+3899,XYL,Previous Close,96.15
+3900,XYL,Open,96.17
+3901,XYL,Bid,96.34 x 800
+3902,XYL,Ask,98.10 x 1000
+3903,XYL,Day's Range,95.66 - 96.79
+3904,XYL,52 Week Range,72.08 - 138.78
+3905,XYL,Volume,"403,657"
+3906,XYL,Avg. Volume,"947,167"
+3907,YUM,Previous Close,114.71
+3908,YUM,Open,114.71
+3909,YUM,Bid,0.00 x 800
+3910,YUM,Ask,116.90 x 900
+3911,YUM,Day's Range,114.21 - 115.25
+3912,YUM,52 Week Range,108.37 - 139.85
+3913,YUM,Volume,"1,114,959"
+3914,YUM,Avg. Volume,"1,492,379"
+3915,ZBRA,Previous Close,316.99
+3916,ZBRA,Open,317.77
+3917,ZBRA,Bid,0.00 x 800
+3918,ZBRA,Ask,0.00 x 800
+3919,ZBRA,Day's Range,316.64 - 321.52
+3920,ZBRA,52 Week Range,283.72 - 615.00
+3921,ZBRA,Volume,"210,857"
+3922,ZBRA,Avg. Volume,"405,519"
+3923,ZBH,Previous Close,109.30
+3924,ZBH,Open,108.99
+3925,ZBH,Bid,101.22 x 900
+3926,ZBH,Ask,0.00 x 1000
+3927,ZBH,Day's Range,108.25 - 109.96
+3928,ZBH,52 Week Range,100.39 - 149.28
+3929,ZBH,Volume,"607,435"
+3930,ZBH,Avg. Volume,"1,142,058"
+3931,ZION,Previous Close,57.62
+3932,ZION,Open,56.86
+3933,ZION,Bid,55.87 x 1000
+3934,ZION,Ask,55.88 x 1000
+3935,ZION,Day's Range,55.82 - 56.86
+3936,ZION,52 Week Range,47.92 - 75.44
+3937,ZION,Volume,"666,384"
+3938,ZION,Avg. Volume,"1,347,570"
+3939,ZTS,Previous Close,162.42
+3940,ZTS,Open,163.20
+3941,ZTS,Bid,161.57 x 800
+3942,ZTS,Ask,166.25 x 800
+3943,ZTS,Day's Range,162.09 - 163.87
+3944,ZTS,52 Week Range,154.18 - 249.27
+3945,ZTS,Volume,"1,157,534"
+3946,ZTS,Avg. Volume,"1,710,295"
